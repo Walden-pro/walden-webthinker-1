@@ -37,7 +37,7 @@ circle(400,150,75)
 fill(255,255,255)
 rect(250,200,100,150)
 fill(255,255,255)
-ellipse(325,300,30,30)
+ellipse(325,300,30,40)
   // Challenge 4: A rocketship using triangle() function
 
   // Challenge 5: A square face using quad() function
