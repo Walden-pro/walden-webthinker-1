@@ -12,7 +12,7 @@ fill(255,255,255)
 ellipse(300,200,200,100)
 fill(0,0,0)
 ellipse(300,200,80,100)
-fill(0,0,255)
+fill(255,255,255)
 ellipse(300,200,80,50)
   // Challenge 2: A face using circle() function
 
