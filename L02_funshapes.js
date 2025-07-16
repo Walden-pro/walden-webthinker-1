@@ -35,7 +35,8 @@ circle(200,150,75)
 fill(255,255,255)
 circle(400,150,75)
 fill(255,255,255)
-rect(250,200,100,200)
+rect(250,200,100,150)
+fill()
   // Challenge 4: A rocketship using triangle() function
 
   // Challenge 5: A square face using quad() function
