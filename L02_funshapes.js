@@ -28,18 +28,18 @@ function draw() {
 // fill(255,255,255)
 // ellipse(300,250,100,40)
   // Challenge 3: A house using rect() function
-fill(255,255,255)
-rect(100,50,400,300)
-fill(255,255,255)
-circle(200,150,75)
-fill(255,255,255)
-circle(400,150,75)
-fill(255,255,255)
-rect(250,200,100,150)
-fill(255,255,255)
-ellipse(330,285,30,40)
+// fill(255,255,255)
+// rect(100,50,400,300)
+// fill(255,255,255)
+// circle(200,150,75)
+// fill(255,255,255)
+// circle(400,150,75)
+// fill(255,255,255)
+// rect(250,200,100,150)
+// fill(255,255,255)
+// ellipse(330,285,30,40)
   // Challenge 4: A rocketship using triangle() function
-
+fill()
   // Challenge 5: A square face using quad() function
 
   // Challenge 6: Add some colours to the drawings in the above challenges
