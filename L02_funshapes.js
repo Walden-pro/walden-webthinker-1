@@ -23,6 +23,8 @@ fill(255,255,255)
 circle(390,100,65)
 fill(255,255,255)
 circle(250,150,25)
+fill(255,255,255)
+circle(350,150,25)
   // Challenge 3: A house using rect() function
 
   // Challenge 4: A rocketship using triangle() function
