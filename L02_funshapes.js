@@ -15,7 +15,7 @@ ellipse(300,200,65,100)
 fill(255,255,255)
 ellipse(300,200,65,30)
   // Challenge 2: A face using circle() function
-
+fill()
   // Challenge 3: A house using rect() function
 
   // Challenge 4: A rocketship using triangle() function
