@@ -31,7 +31,7 @@ function draw() {
 fill(255,255,255)
 rect(100,50,400,300)
 fill(255,255,255)
-circle(200,300,)
+circle(200,300,100)
   // Challenge 4: A rocketship using triangle() function
 
   // Challenge 5: A square face using quad() function
