@@ -42,7 +42,9 @@ function draw() {
 fill(255,255,255)
 ellipse(300,215,225,300)
 fill(255,255,255)
-triangle(195,125,405,15,300,25)
+triangle(195,125,405,125,300,25)
+fill(255,255,255)
+circle(300,225,50)
 fill(255,255,255)
 circle(300,225,50)
   // Challenge 5: A square face using quad() function
