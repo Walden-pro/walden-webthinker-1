@@ -55,7 +55,7 @@ function draw() {
   fill(255,255,100)
   circle(300,200,250)
   fill(0,0,0)
-  circle(235,150,50)
+  circle(230,150,50)
     fill(0,0,0)
-  circle(375,150,50)
+  circle(380,150,50)
 }
