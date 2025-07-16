@@ -46,7 +46,7 @@ triangle(195,125,405,125,300,25)
 fill(255,255,255)
 circle(300,225,50)
 fill(255,255,255)
-rect(300,300,200,200)
+rect(300,325,200,200)
   // Challenge 5: A square face using quad() function
 
   // Challenge 6: Add some colours to the drawings in the above challenges
