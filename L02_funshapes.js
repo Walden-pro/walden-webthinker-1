@@ -26,7 +26,7 @@ circle(250,150,25)
 fill(255,255,255)
 circle(350,150,25)
 fill(255,255,255)
-ellipse(350,150,25,65)
+ellipse(350,250,25,65)
   // Challenge 3: A house using rect() function
 
   // Challenge 4: A rocketship using triangle() function
