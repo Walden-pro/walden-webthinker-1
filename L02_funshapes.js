@@ -43,7 +43,8 @@ fill(255,255,255)
 ellipse(300,215,225,250)
 fill(255,255,255)
 triangle(195,150,405,150,300,25)
-
+fill(255,255,255)
+circle(195,150,405,150,300,25)
   // Challenge 5: A square face using quad() function
 
   // Challenge 6: Add some colours to the drawings in the above challenges
