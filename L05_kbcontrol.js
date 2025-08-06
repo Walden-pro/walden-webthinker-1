@@ -10,7 +10,15 @@ function draw() {
 
 
 }
+function mousePressed() {
 
+}
+
+function mouseReleased(){
+
+
+
+}
 
 
 
