@@ -1,6 +1,6 @@
 // let rs = 50;;;;;;;;;;;;;;;;;;
 function setup() {
-    createCanvas(1535, 727);
+    createCanvas(200,200);
     background(220);
 }
 function draw() {
@@ -8,7 +8,11 @@ function draw() {
 // background(220);
 // fill(53,234,212);;;;;;;;;;;
 // rect(width / 2 - rs,height / 2 - rs,rs,rs);;
+if(key === 'c') {
 
+
+    
+}
 
 }
 function keyPressed() {

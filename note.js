@@ -13,7 +13,7 @@
 
 //SETUP
 function setup() {
-    createCanvas(1500, 700);
+    createCanvas(1535, 727);
     background(220);
     fill(255,0,0)
 }
