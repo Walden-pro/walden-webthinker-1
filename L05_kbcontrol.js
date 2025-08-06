@@ -5,8 +5,8 @@ function setup() {
 }
 function draw() {
 noStroke()
-fill()
-
+fill(65,65,65)
+rect()
 
 
 }
