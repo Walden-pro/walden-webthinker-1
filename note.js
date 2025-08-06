@@ -6,8 +6,8 @@
 // to remove suggestions,click settings button and settings and click off suggestions
 // rect(xpos,ypos,rectsize,rectsize)
 // use === to compare a vs b
-keycode for spacebar is 32
-keycode for up arrow is UP_ARROW/down arrow blah blah blah
+// keycode for spacebar is 32
+// keycode for up arrow is UP_ARROW/down arrow blah blah blah
 
 
 
