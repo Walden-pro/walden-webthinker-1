@@ -36,7 +36,11 @@ function mouseDragged(){
 // noStroke();
 // fill(random(255),random(255),random(255));
 // circle(mouseX,mouseY,di);
-noStroke()
-fill(random(255),random(255),random(255))
+
+
+
+
+noStroke();
+fill(random(255),random(255),random(255));
 ellipse(mouseX, mouseY, 20, 20);
 }
