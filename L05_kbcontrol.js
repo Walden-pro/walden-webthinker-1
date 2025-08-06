@@ -11,7 +11,7 @@ noStroke()
 
 }
 function keyPressed() {
-rectSize = 
+rs = 100;;;;;;;;;;;;;;;;;;;;;;;;
 
 
 }
