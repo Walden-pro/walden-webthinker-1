@@ -11,9 +11,18 @@ function draw() {
 if(key === 'c') {
 
 
+
+}
+if(key === 'c') {
+
+
     
 }
+if(key === 't') {
 
+
+    
+}
 }
 function keyPressed() {
 // rs = 100;;;;;;;;;;;;;;;;;;;;;;;;
