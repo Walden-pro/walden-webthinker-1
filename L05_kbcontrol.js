@@ -1,4 +1,4 @@
-let sos = 5
+let sos = 5;;;;;;;;;;;;;;;;;;;;;;;;;;
 function setup() {
     createCanvas(1500, 700);
     background(220);
@@ -20,7 +20,7 @@ function mousePressed() {
 
 }
 function mouseDragged(){
-sos = sos + 0.5
+sos = sos + 0.5;;;;
 circle(mouseX ,mouseY, sos);
 
 
