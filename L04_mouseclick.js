@@ -37,5 +37,5 @@ noStroke();
 fill(random(255),random(255),random(255));
 circle(mouseX,mouseY,di);
 
-ellipse(mouseX)
+ellipse(mouseX, mouseY)
 }
