@@ -20,7 +20,7 @@ circle(xpos , ypos, sos);
 
 }
 function mouseDragged(){
-sos = sos 
+sos = sos + 0.5
 circle(xpos , ypos, sos);
 
 
