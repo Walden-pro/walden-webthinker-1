@@ -1,4 +1,4 @@
-let sos = 5;;;;;;;;;;;;;;;;;;;;;;;;;;
+// let sos = 5;;;;;;;;;;;;;;;;;;;;;;;;;;
 function setup() {
     createCanvas(1500, 700);
     background(220);
@@ -11,8 +11,8 @@ noStroke()
 
 }
 function mousePressed() {
-sos = 5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-    fill(random(255),random(255),random(255));
+// sos = 5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+//     fill(random(255),random(255),random(255));
 
 
 
