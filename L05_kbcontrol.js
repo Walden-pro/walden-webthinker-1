@@ -4,7 +4,7 @@ function setup() {
     background(220);
 }
 function draw() {
-noStroke()
+noStroke();;;
 background(220);
 fill(53,234,212);;;;;;;;;;;
 rect(width / 2 - rs,height / 2 - rs,rs,rs);;
