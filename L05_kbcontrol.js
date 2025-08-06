@@ -5,7 +5,7 @@ function setup() {
 }
 function draw() {
 noStroke()
-
+fill()
 
 
 
