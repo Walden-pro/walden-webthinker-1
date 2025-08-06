@@ -15,7 +15,7 @@ function keyPressed() {
 
 
 }
-function keyed(){
+function keyReleased(){
 
 
 
