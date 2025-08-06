@@ -21,7 +21,7 @@ if(key === 's') {
 if(key === 't') {
 triangle(0,200, 100,200,200,200)
 
-    
+
 }
 }
 function keyPressed() {
