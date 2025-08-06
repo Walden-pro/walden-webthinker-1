@@ -19,7 +19,7 @@ if(key === 's') {
     
 }
 if(key === 't') {
-triangle()
+triangle(0,200, 1000 ,200,200)
 
     
 }
