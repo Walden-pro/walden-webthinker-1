@@ -11,7 +11,7 @@ function draw() {
 
 }
 function mousePressed() {
-circle(xpos , ypos, )
+circle(xpos , ypos, sos);
 
 
 
