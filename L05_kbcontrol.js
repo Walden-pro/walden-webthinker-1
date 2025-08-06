@@ -10,18 +10,13 @@ noStroke()
 
 
 }
-function mousePressed() {
-// sos = 5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-//     fill(random(255),random(255),random(255));
-
-
+function keyPressed() {
 
 
 
 }
 function mouseDragged(){
-// sos = sos + 0.5;;;;
-// circle(mouseX ,mouseY, sos);
+
 
 
 
