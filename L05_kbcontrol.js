@@ -6,7 +6,7 @@ function setup() {
 function draw() {
 noStroke()
 background(220);
-
+fill(53,234,12)
 rect(width / 2 - rs,height / 2 - rs,rs,rs)
 
 
