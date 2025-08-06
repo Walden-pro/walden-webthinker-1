@@ -20,8 +20,8 @@ function mousePressed() {
 
 }
 function mouseDragged(){
-sos = sos + 0.5;;;;
-circle(mouseX ,mouseY, sos);
+// sos = sos + 0.5;;;;
+// circle(mouseX ,mouseY, sos);
 
 
 
