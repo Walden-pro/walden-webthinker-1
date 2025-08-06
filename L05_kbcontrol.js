@@ -9,7 +9,8 @@ function draw() {
 // fill(53,234,212);;;;;;;;;;;
 // rect(width / 2 - rs,height / 2 - rs,rs,rs);;
 if(key === 'c') {
-circle(200,200,200)
+fill(0)
+circle(100,200,200)
 
 
 }
