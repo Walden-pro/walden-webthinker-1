@@ -5,7 +5,7 @@ function setup() {
 }
 function draw() {
 noStroke();;;
-// background(220);
+background(220);
 // fill(53,234,212);;;;;;;;;;;
 // rect(width / 2 - rs,height / 2 - rs,rs,rs);;
 if(key === 'c') {
