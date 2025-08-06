@@ -19,7 +19,7 @@ if(key === 's') {
     
 }
 if(key === 't') {
-
+triangle()
 
     
 }
