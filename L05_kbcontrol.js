@@ -1,6 +1,6 @@
 let rs = 50;;;;;;;;;;;;;;;;;;
 function setup() {
-    createCanvas(1600, 700);
+    createCanvas(1550, 700);
     background(220);
 }
 function draw() {
