@@ -32,10 +32,10 @@ function mouseMoved(){
 }
 function mouseDragged(){
     
-let di = random(25);
-noStroke();
-fill(random(255),random(255),random(255));
-circle(mouseX,mouseY,di);
+// let di = random(25);
+// noStroke();
+// fill(random(255),random(255),random(255));
+// circle(mouseX,mouseY,di);
 
-ellipse(mouseX, mouseY)
+ellipse(mouseX, mouseY, 20, 20);
 }
