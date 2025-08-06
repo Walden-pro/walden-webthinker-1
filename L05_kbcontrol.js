@@ -11,7 +11,8 @@ noStroke()
 
 }
 function mousePressed() {
-    let xpos
+    let xpos = 75
+    let ypos = 75
 circle(xpos , ypos, sos);
 
 
