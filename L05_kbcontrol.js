@@ -1,18 +1,18 @@
-let rs = 50;;;;;;;;;;;;;;;;;;
+// let rs = 50;;;;;;;;;;;;;;;;;;
 function setup() {
     createCanvas(1535, 727);
     background(220);
 }
 function draw() {
-noStroke();;;
-background(220);
-fill(53,234,212);;;;;;;;;;;
-rect(width / 2 - rs,height / 2 - rs,rs,rs);;
+// noStroke();;;
+// background(220);
+// fill(53,234,212);;;;;;;;;;;
+// rect(width / 2 - rs,height / 2 - rs,rs,rs);;
 
 
 }
 function keyPressed() {
-rs = 100;;;;;;;;;;;;;;;;;;;;;;;;
+// rs = 100;;;;;;;;;;;;;;;;;;;;;;;;
 
 
 }
