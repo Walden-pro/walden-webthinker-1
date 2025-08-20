@@ -1,40 +1,61 @@
-// let rs = 50;;;;;;;;;;;;;;;;;;
+let xp  = 0;;;
+let yp = 0;
+
 function setup() {
-    createCanvas(200,200);
+    createCanvas(1535, 727);
     background(220);
 }
 function draw() {
-noStroke();
-background(220);
-// fill(53,234,212);;;;;;;;;;;
-// rect(width / 2 - rs,height / 2 - rs,rs,rs);;
-if(key === 'c') {
-fill(255,0,0)
-circle(100,100,200)
-
-
+    background(220);
+textSize(48);
+text(key, 50,40);
+text(keyCode,50,80);
+if(keyIsDown(RIGHT_ARROW)){
+xp = xp + 10;
 }
-if(key === 'r') {
-fill(0,255,0)
-rect(25,25,150,150)
-
-    
+if(keyIsDown(LEFT_ARROW)){
+xp = xp - 10;
 }
-if(key === 't') {
-    fill(0,0,255)
-    triangle(0,200, 100,0, 200,200)
-
-
+xp = constrain(xp,40,width-40);
+if(keyIsDown(DOWN_ARROW)){
+yp = yp + 10;
 }
+if(keyIsDown(UP_ARROW)){
+yp = yp - 10;
+}
+yp = constrain(yp,40,height-40);
+fill(255,0,0);
+circle(xp,yp ,80);
+
+    background(220);
+textSize(48);
+text(key, 50,40);
+text(keyCode,50,80);
+if(keyIsDown(68)){
+xp = xp + 10;
+}
+if(keyIsDown(65)){
+xp = xp - 10;
+}
+xp = constrain(xp,40,width-40);
+if(keyIsDown(83)){
+yp = yp + 10;
+}
+if(keyIsDown(87)){
+yp = yp - 10;
+}
+yp = constrain(yp,40,height-40);
+fill(255,0,0);
+circle(xp,yp ,80);
 }
 function keyPressed() {
-// rs = 100;;;;;;;;;;;;;;;;;;;;;;;;
+
 
 
 }
 function keyReleased(){
 
-// rs = 50;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
 
 
 

@@ -25,3 +25,13 @@ function draw() {
 
 
 }
+
+
+
+
+// KEY CODE for translator
+
+//     background(220)
+// textSize(69)
+// text(key, 250,70)
+// text(keyCode,250,140)
