@@ -12,7 +12,7 @@ function draw() {
 }
 function preload() {
 se = loadSound('assets/brain.mp3')
-bgm = loadSound('assets/.mp3')
+bgm = loadSound('assets/bruh.mp3')
 si = loadImage('assets/pico-a.png')
 
 
