@@ -11,8 +11,8 @@ function draw() {
 
 }
 function preload() {
-se = loadSound('assets/.mp3')
-bgm = loadSound('assets/bossaNova.mp3')
+se = loadSound('assets/brain.mp3')
+bgm = loadSound('assets/.mp3')
 si = loadImage('assets/pico-a.png')
 
 
