@@ -46,7 +46,7 @@ rect(xp,yp ,80, 80);
 // }
 // yp = constrain(yp,40,height-40);
 // fill(255,0,0);
-// rect(xp,yp ,80,80);
+rect(xp,yp ,80,80);
 noFill()
 rect(40,40,300,300)
 }
