@@ -47,8 +47,8 @@ fill(255,0,0);
 // yp = constrain(yp,40,height-40);
 // fill(255,0,0);
 rect(xp,yp ,80,80);
-noFill()
-rect(40,40,420,420)
+noFill();
+rect(40,40,420,420);
 }
 function keyPressed() {
 
