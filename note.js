@@ -35,3 +35,4 @@ function draw() {
 // textSize(69)
 // text(key, 250,70)
 // text(keyCode,250,140)
+  triangle(200,250,350,400,400,320)
