@@ -48,7 +48,7 @@ fill(255,0,0);
 // fill(255,0,0);
 rect(xp,yp ,80,80);
 noFill()
-rect(40,40,300,300)
+rect(40,40,440,300)
 }
 function keyPressed() {
 
