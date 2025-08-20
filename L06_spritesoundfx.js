@@ -1,3 +1,9 @@
+
+
+
+
+
+
 let se , bgm , si;
 function setup() {
     createCanvas(1535, 727);
