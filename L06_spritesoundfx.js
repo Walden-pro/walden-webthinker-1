@@ -25,7 +25,7 @@ xp = constrain(xp,40,width-120);
 function preload() {
 se = loadSound('assets/pop.mp3')
 si = loadImage('assets/pico-a.png')
-bgm = loadSound('assets/brain')
+bgm = loadSound('assets/brain.mp3')
 
 
 
