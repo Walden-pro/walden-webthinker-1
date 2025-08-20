@@ -47,7 +47,7 @@ yp = yp - 10;
 yp = constrain(yp,40,height-40);
 fill(255,0,0);
 rect(xp,yp ,80,80);
-rect 600
+rect(1500,)
 }
 function keyPressed() {
 
