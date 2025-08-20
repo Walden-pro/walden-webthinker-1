@@ -3,7 +3,7 @@ let yp = 0;
 let six = 
 
 
-
+let =
 
 function setup() {
     createCanvas(1535, 727);
