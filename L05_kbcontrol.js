@@ -2,7 +2,7 @@ let xp  = 0;;;
 let yp = 0;
 
 function setup() {
-    createCanvas(1535, 727);
+    createCanvas(500, 727);
     background(220);
 }
 function draw() {
