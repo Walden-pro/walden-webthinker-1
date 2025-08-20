@@ -21,7 +21,7 @@ xp = xp - 30;
 
 }
 function preload() {
-
+se = loadSound('')
 si = loadImage('assets/pico-a.png')
 
 
