@@ -11,17 +11,17 @@ textSize(48);
 text(key, 50,40);
 text(keyCode,50,80);
 if(keyIsDown(RIGHT_ARROW)){
-xp = xp + 10;
+xp = xp + 30;
 }
 if(keyIsDown(LEFT_ARROW)){
-xp = xp - 10;
+xp = xp - 30;
 }
 xp = constrain(xp,40,width-120);
 if(keyIsDown(DOWN_ARROW)){
-yp = yp + 10;
+yp = yp + 30;
 }
 if(keyIsDown(UP_ARROW)){
-yp = yp - 10;
+yp = yp - 30;
 }
 yp = constrain(yp,40,height-120);
 fill(255,0,0);
