@@ -28,9 +28,9 @@ fill(255,0,0);
 circle(xp,yp ,80);
 
     background(220);
-textSize(48);
-text(key, 50,40);
-text(keyCode,50,80);
+// textSize(48);
+// text(key, 50,40);
+// text(keyCode,50,80);
 if(keyIsDown(68)){
 xp = xp + 10;
 }
