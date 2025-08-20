@@ -16,14 +16,14 @@ xp = xp + 10;
 if(keyIsDown(LEFT_ARROW)){
 xp = xp - 10;
 }
-xp = constrain(xp,40,width-40);
+xp = constrain(xp,40,width-80);
 if(keyIsDown(DOWN_ARROW)){
 yp = yp + 10;
 }
 if(keyIsDown(UP_ARROW)){
 yp = yp - 10;
 }
-yp = constrain(yp,40,height-40);
+yp = constrain(yp,40,height-80);
 fill(255,0,0);
 // rect(xp,yp ,80, 80);
 
