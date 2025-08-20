@@ -2,7 +2,7 @@ let xp  = 0;;;
 let yp = 0;
 
 
-let si,se;
+let si,se,bgm;
 
 function setup() {
     createCanvas(1535, 727);
@@ -18,6 +18,7 @@ xp = xp + 30;
 if(keyIsDown(LEFT_ARROW)){
 xp = xp - 30;
 }
+
 yp = constrain(yp,40,height-120);
 xp = constrain(xp,40,width-120);
 }
