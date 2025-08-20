@@ -18,7 +18,12 @@ xp = xp + 30;
 if(keyIsDown(LEFT_ARROW)){
 xp = xp - 30;
 }
-
+if(keyIsDown(DOWN_ARROW)){
+yp = yp + 30;
+}
+if(keyIsDown(UP_ARROW)){
+yp = yp - 30;
+}
 yp = constrain(yp,40,height-120);
 xp = constrain(xp,40,width-120);
 }
