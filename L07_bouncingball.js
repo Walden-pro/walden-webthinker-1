@@ -4,7 +4,7 @@ function setup() {
     background(220);
 }
 function draw() {
-  triangle(200,200,10,400,400,400)
+  triangle(100,100,10,400,400,400)
 
 
 
