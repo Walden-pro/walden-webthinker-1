@@ -10,7 +10,7 @@ function setup() {
 }
 function draw() {
 background("skyblue")
-Image(si,xp, yp ,110,133)
+image(si,xp, yp ,110,133)
 
 if(keyIsDown(RIGHT_ARROW)){
 xp = xp + 30;
