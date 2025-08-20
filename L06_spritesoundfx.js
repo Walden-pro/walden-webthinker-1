@@ -1,9 +1,8 @@
 let xp  = 0;;;
 let yp = 0;
-let six = 
 
 
-let =
+let si;
 
 function setup() {
     createCanvas(1535, 727);
@@ -11,7 +10,7 @@ function setup() {
 }
 function draw() {
 background("skyblue")
-
+Image(si,xp, yp ,110,133)
 
 if(keyIsDown(RIGHT_ARROW)){
 xp = xp + 30;
