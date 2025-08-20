@@ -9,7 +9,7 @@ function draw() {
 
 
 let xpos = 50;
-
+let count = 0;
 
 for (let count = 0; count < 5; count++) {
     fill(0);
