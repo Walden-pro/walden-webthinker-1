@@ -18,7 +18,8 @@ xp = xp + 30;
 if(keyIsDown(LEFT_ARROW)){
 xp = xp - 30;
 }
-
+yp = constrain(yp,40,height-120);
+xp = constrain(xp,40,width-120);
 }
 function preload() {
 se = loadSound('assets/pop.mp3')
