@@ -5,7 +5,7 @@ function setup() {
 }
 function draw() {
   triangle(300,100,400,200,200,200)
-ellipse
+ellipse(69,69,69,69)
 
 
 
