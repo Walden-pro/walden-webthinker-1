@@ -9,9 +9,10 @@ function setup() {
     background("steelblue");
 }
 function draw() {
+noStroke()
+circle()
 
 
-    
 
 }
 
