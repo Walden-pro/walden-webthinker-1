@@ -17,7 +17,7 @@ xpos = 25;
 if(keyIsDown(LEFT_ARROW)){
 xpos = xpos + 5;
 }
-if ( xpos < 25){
+if ( xpos > width/2){
 xpos = 25;
 }
 }
