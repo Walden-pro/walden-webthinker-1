@@ -44,11 +44,11 @@ if(keyIsDown(DOWN_ARROW)){
 bsx=bsx-1
 }
 if(keyIsDown(87)){
-bsx=bsx+1
+bsy=bsy+1
 }
 
 if(keyIsDown(83)){
-bsx=bsx-1
+bsy=bsy-1
 }
 }
 
