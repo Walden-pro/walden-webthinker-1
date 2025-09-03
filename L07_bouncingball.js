@@ -13,8 +13,8 @@ xpos = xpos - 5;
 
 }
 if ( xpos < 25){
+xpos = 25;
 
-    
 }
 
 }
