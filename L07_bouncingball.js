@@ -8,10 +8,6 @@ function draw() {
 
 
 
-
-
-
-    
 }
 
 
