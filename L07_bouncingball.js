@@ -11,6 +11,7 @@ function setup() {
 function draw() {
 background("steelblue")
 noStroke();
+fill(255);
 circle(bx,by,bs);
 bx=bx+bsx;
 by=by+bsy;
