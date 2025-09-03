@@ -37,11 +37,11 @@ fill( random(0,255), random(0,255), random(0,255))
 
 
 if(keyIsDown(UP_ARROW)){
-ypos = ypos - 5;
+bx
 }
 
 if(keyIsDown(DOWN_ARROW)){
-ypos = ypos + 5;
+
 }
 }
 
