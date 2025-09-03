@@ -9,7 +9,7 @@ function draw() {
 background("skyblue")
 circle(xpos,height/2,50);
 if(keyIsDown(LEFT_ARROW)){
-
+xpos = xpos - 5
 
 }
 
