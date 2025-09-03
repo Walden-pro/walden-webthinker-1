@@ -37,11 +37,11 @@ fill( random(0,255), random(0,255), random(0,255))
 
 
 if(keyIsDown(UP_ARROW)){
-bx
+bsx=bsx+1
 }
 
 if(keyIsDown(DOWN_ARROW)){
-
+bsx=bsx+
 }
 }
 
