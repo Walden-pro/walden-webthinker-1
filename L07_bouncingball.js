@@ -15,7 +15,7 @@ fill(255);
 circle(bx,by,bs);
 bx=bx+bsx;
 by=by+bsy;
-if (bx < width-bs/2){
+if (bx > width-bs/2){
 bsx =bsx * -1;
 }
 if (bx < 0+bs/2){
