@@ -22,9 +22,9 @@ if (bx < 0+bs/2){
 bsx =bsx * -1;
 }
 if (by > width-bs/2){
-bsx =bsx * -1;
+bsy =bsy * -1;
 }
-if (bx < 0+bs/2){
+if (by < 0+bs/2){
 bsx =bsx * -1;
 }
 }
