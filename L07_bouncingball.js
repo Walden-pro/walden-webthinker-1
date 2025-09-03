@@ -11,8 +11,8 @@ function setup() {
 function draw() {
 noStroke();
 circle(bx,by,bs);
-bx=bx+bsx
-by=by+bsy
+bx=bx+bsx;
+by=by+bsy;
 
 }
 
