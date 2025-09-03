@@ -36,13 +36,13 @@ fill( random(0,255), random(0,255), random(0,255))
 }
 
 
-if(keyIsDown(UP_ARROW)){
-bsx=bsx+1
-}
+// if(keyIsDown(UP_ARROW)){
+// bsx=bsx+1
+// }
 
-if(keyIsDown(DOWN_ARROW)){
-bsx=bsx-1
-}
+// if(keyIsDown(DOWN_ARROW)){
+// bsx=bsx-1
+// }
 if(keyIsDown(87)){
 bsy=bsy+1
 }
