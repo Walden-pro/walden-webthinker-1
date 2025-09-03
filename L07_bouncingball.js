@@ -3,7 +3,7 @@ let ypos = 200;
 
 function setup() {
     createCanvas(600, 400);
-    background();
+    background("skyblue");
 }
 function draw() {
     background("skyblue");
