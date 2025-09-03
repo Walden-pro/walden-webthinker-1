@@ -1,4 +1,4 @@
-let xpos
+let xpos = 200;
 let bx = 200;
 let by = 300;
 let bs = 50;
