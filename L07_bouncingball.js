@@ -50,7 +50,7 @@ bsy=bsy+1
 if(keyIsDown(83)){
 bsy=bsy-1
 }
-bsx = constrain(bsx,1,10);
+bsx = constrain(bsx,-5,5);
 bsy = constrain(bsy,-5,5);
 
 }
