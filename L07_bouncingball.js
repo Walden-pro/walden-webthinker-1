@@ -1,4 +1,4 @@
-random
+
 
 
 let xpos = 200;
