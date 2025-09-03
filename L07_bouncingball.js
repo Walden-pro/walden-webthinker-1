@@ -9,6 +9,7 @@ function setup() {
     background("steelblue");
 }
 function draw() {
+background("stel")
 noStroke();
 circle(bx,by,bs);
 bx=bx+bsx;
