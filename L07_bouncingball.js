@@ -25,7 +25,7 @@ if (by > width-bs/2){
 bsy =bsy * -1;
 }
 if (by < 0+bs/2){
-bsx =bsx * -1;
+bsy =bsy * -1;
 }
 }
 
