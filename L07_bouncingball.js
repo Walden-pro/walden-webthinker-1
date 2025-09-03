@@ -14,7 +14,7 @@ function setup() {
 function draw() {
 
 noStroke();
-fill(255);
+
 circle(bx,by,bs);
 bx=bx+bsx;
 by=by+bsy;
