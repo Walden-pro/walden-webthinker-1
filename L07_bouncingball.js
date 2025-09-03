@@ -20,7 +20,7 @@ bx=bx+bsx;
 by=by+bsy;
 if (bx > width-bs/2){
 bsx =bsx * -1;
-fill(random(0,255))
+fill(random(0,255),random(0,255),random(0,255))
 }
 if (bx < 0+bs/2){
 bsx =bsx * -1;
