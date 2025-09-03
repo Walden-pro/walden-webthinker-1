@@ -43,11 +43,11 @@ bsx=bsx+1
 if(keyIsDown(DOWN_ARROW)){
 bsx=bsx-1
 }
-if(keyIsDown(UP_ARROW)){
+if(keyIsDown(87)){
 bsx=bsx+1
 }
 
-if(keyIsDown(DOWN_ARROW)){
+if(keyIsDown(83)){
 bsx=bsx-1
 }
 }
