@@ -16,8 +16,8 @@ circle(bx,by,bs);
 bx=bx+bsx;
 by=by+bsy;
 if (bx < width-bs/2){
+bsx =bsx * -1;
 
-    
 }
 }
 
