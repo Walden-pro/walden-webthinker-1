@@ -6,6 +6,38 @@ function setup() {
     background("skyblue");
 }
 function draw() {
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // background("skyblue");
 // circle(xpos, ypos/2, 50);
 // if(keyIsDown(LEFT_ARROW)){
@@ -31,11 +63,3 @@ function draw() {
 // if ( ypos < 25){
 // ypos = 25;
 // }
-
-}
-
-
-
-
-
-
