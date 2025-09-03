@@ -6,7 +6,7 @@ function setup() {
     background('skyblue');
 }
 function draw() {
-    background('skyblue');
+    background("skyblue");
     fill(255)
     circle(xpos, height/2, 50);
     if(keyIsDown(LEFT_ARROW)){
