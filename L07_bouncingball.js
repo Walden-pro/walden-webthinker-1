@@ -21,7 +21,9 @@ if(keyIsDown(RIGHT_ARROW)){
 if ( xpos > width-25){
 xpos = width-25;
 }
-
+if(keyIsDown(UP_ARROW)){
+xpos = ypos - 5;
+}
 
 
 }
