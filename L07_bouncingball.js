@@ -8,7 +8,7 @@ function setup() {
 function draw() {
 background('skyblue');
 fill(255)
-circle(xpos,height/2,50);
+circle(xpos, height/2, 50);
 if(keyIsDown(LEFT_ARROW)){
     xpos = xpos - 5;
 
