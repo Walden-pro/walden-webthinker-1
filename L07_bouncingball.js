@@ -74,7 +74,7 @@ function draw() {
 
 
 
-function draw() {
+// function draw() {
 
 
 
@@ -109,4 +109,4 @@ function draw() {
 // }
 
 
-}
+// }
