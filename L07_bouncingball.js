@@ -10,7 +10,7 @@ function setup() {
 }
 function draw() {
 noStroke();
-circle(bx,by,bs)
+circle(bx,by,bs);
 
 
 
