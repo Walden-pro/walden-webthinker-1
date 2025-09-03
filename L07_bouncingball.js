@@ -1,5 +1,4 @@
-// let xpos = 200;
-// let ypos = 200;
+
 
 function setup() {
     createCanvas(600, 400);
@@ -36,6 +35,44 @@ function draw() {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let xpos = 200;
+// let ypos = 200;
 
 
 // background("skyblue");
