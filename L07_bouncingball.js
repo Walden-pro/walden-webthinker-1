@@ -29,7 +29,7 @@ if(keyIsDown(DOWN_ARROW)){
 ypos = ypos + 5;
 }
 if ( ypos > width+25){
-ypos = height+100;
+ypos = height+300;
 }
 }
 
