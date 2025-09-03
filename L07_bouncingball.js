@@ -7,7 +7,8 @@ function setup() {
 }
 function draw() {
 background("skyblue")
-circle(xpos,height/2)
+circle(xpos,height/2,50);
+i
 
 
 }
