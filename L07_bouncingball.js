@@ -6,18 +6,16 @@ function setup() {
     background("skyblue");
 }
 function draw() {
-    background("skyblue");
-    circle(xpos, height/2, 50);
-    if(keyIsDown(LEFT_ARROW)){
-        xpos = xpos - 5;
-
-    }
-    if ( xpos < 25){
-        xpos = 25;
+background("skyblue");
+circle(xpos, height/2, 50);
+if(keyIsDown(LEFT_ARROW)){
+xpos = xpos - 5;
+}
+if ( xpos < 25){
+xpos = 25;
 }
 if(keyIsDown(LEFT_ARROW)){
-        xpos = xpos - 5;
-
+xpos = xpos - 5;
     }
     if ( xpos < 25){
         xpos = 25;
