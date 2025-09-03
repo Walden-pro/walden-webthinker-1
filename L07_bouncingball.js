@@ -6,10 +6,12 @@ let bsx = 2;
 let bsy = 2;
 function setup() {
     createCanvas(600, 400);
-    background("skyblue");
+    background("steelblue");
 }
 function draw() {
 
+
+    
 
 }
 
