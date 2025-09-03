@@ -35,8 +35,7 @@ bsy =bsy * -1;
 fill( random(0,255), random(0,255), random(0,255))
 }
 
-bsx = constrain(bsx,1,10);
-bsy = constrain(bsy,1,10);
+
 if(keyIsDown(UP_ARROW)){
 bsx=bsx+1
 }
@@ -51,6 +50,8 @@ bsy=bsy+1
 if(keyIsDown(83)){
 bsy=bsy-1
 }
+bsx = constrain(bsx,1,10);
+bsy = constrain(bsy,1,10);
 }
 
 
