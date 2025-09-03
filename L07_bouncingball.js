@@ -3,7 +3,7 @@ let bx = 200;
 let by = 300;
 let bs = 50;
 let bsx = 2;
-let bsy = 2;
+let bsy = 0;
 function setup() {
     createCanvas(600, 400);
     background("steelblue");
