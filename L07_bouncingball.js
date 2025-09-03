@@ -3,7 +3,7 @@ let xpos = 200;
 
 function setup() {
     createCanvas(1535, 727);
-    
+    background('skyblue')
 }
 function draw() {
 background('skyblue');
