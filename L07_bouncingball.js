@@ -20,11 +20,7 @@ function draw() {
 }
 
 
-function draw(){
 
-
-
-}
 
 
 
