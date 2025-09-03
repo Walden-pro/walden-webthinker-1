@@ -1,3 +1,6 @@
+random
+
+
 let xpos = 200;
 let bx = 200;
 let by = 300;
@@ -17,7 +20,7 @@ bx=bx+bsx;
 by=by+bsy;
 if (bx > width-bs/2){
 bsx =bsx * -1;
-fill(ra)
+fill(random)
 }
 if (bx < 0+bs/2){
 bsx =bsx * -1;
