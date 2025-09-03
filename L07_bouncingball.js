@@ -14,9 +14,15 @@ function draw() {
     }
     if ( xpos < 25){
         xpos = 25;
+}
+if(keyIsDown(LEFT_ARROW)){
+        xpos = xpos - 5;
 
     }
+    if ( xpos < 25){
+        xpos = 25;
 
+    }
 }
 
 
