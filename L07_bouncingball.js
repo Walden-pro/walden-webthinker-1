@@ -8,7 +8,10 @@ function setup() {
 function draw() {
 background("skyblue")
 circle(xpos,height/2,50);
-i
+if(keyIsDown(LEFT_ARROW)){
+
+    
+}
 
 
 }
