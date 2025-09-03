@@ -41,7 +41,7 @@ bsx=bsx+1
 }
 
 if(keyIsDown(DOWN_ARROW)){
-bsx=bsx+
+bsx=bsx-1
 }
 }
 
