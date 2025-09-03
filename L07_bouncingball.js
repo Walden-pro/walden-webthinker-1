@@ -14,7 +14,7 @@ xpos = xpos - 5;
 if ( xpos < 25){
 xpos = 25;
 }
-if(keyIsDown(LEFT_ARROW)){
+if(keyIsDown(RIGHT_ARROW)){
     xpos = xpos + 5;
 }
 
