@@ -28,8 +28,8 @@ ypos = ypos - 5;
 if(keyIsDown(DOWN_ARROW)){
 ypos = ypos + 5;
 }
-if ( xpos > width-25){
-xpos = width-25;
+if ( yieldpos > width-25){
+ypos = width-25;
 }
 }
 
