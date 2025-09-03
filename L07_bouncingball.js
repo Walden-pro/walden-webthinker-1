@@ -74,6 +74,9 @@ function draw() {
 
 
 
+function draw() {
+
+
 
 // let xpos = 200;
 // let ypos = 200;
@@ -104,3 +107,6 @@ function draw() {
 // if ( ypos < 25){
 // ypos = 25;
 // }
+
+
+}
