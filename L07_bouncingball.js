@@ -1,5 +1,8 @@
-let bx = 
-
+let bx = 200;
+let by = 300;
+let bs = 50;
+let bsx = 2;
+let bsy = 
 function setup() {
     createCanvas(600, 400);
     background("skyblue");
