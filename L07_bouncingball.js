@@ -31,9 +31,7 @@ ypos = ypos + 5;
 if ( ypos < 25){
 ypos = 25;
 }
-if ( ypos > width-25){
-ypos = width-25;
-}
+
 }
 
 
