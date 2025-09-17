@@ -35,7 +35,7 @@ function draw() {
         "wow the end!"]
     for(let i = 0;i > story.length;i++){
         text(story[i],0,textY);
-        textY = textY +20;
+        textY = textY -20;
     }
 ypos = ypos + 0.69;
 if (ypos < 0){
