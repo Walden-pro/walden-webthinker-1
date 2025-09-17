@@ -14,7 +14,7 @@ function setup() {
 }
 function draw() {
     background("black");
-    textAlign(CustomElementRegistry,C)
+    textAlign()
     text("Longgggg time ago in a galaxy far...",0,50)
 
 
