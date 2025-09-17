@@ -20,7 +20,10 @@ function draw() {
     text("Longgggg time ago in a galaxy far...",0,0);
     text("very very very longggg ago",0,50);
     let story = [, "There is a spaceship in the space...", "There was a bunch of amonguses...","there is a suspicious person that is the imposter..."]
-    for(let i = 0;i > 5;)
+    for(let i = 0;i > 5;i++){
+
+        
+    }
 ypos = ypos - 0.8;
 if (ypos < 0){
 
