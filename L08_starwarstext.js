@@ -23,7 +23,7 @@ function draw() {
     for(let i = 0;i > 5;i++){
         text(i,0,100)
     }
-ypos = ypos - 0.8;
+ypos = ypos - 2;
 if (ypos < 0){
 
     ypos = height;
