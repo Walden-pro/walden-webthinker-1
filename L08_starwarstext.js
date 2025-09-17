@@ -25,7 +25,7 @@ function draw() {
         "There is a spaceship in the space...", 
         "There was a bunch of amonguses...",
         "there is a suspicious person that is the imposter..."]
-    for(let i = 0;i > 5;i++){
+    for(let i = 0;i < story;i++){
         text(i,0,100)
     }
 ypos = ypos - 2;
