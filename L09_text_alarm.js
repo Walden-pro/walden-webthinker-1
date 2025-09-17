@@ -33,7 +33,7 @@ function draw() {
     sn = nf(sn,2);
     textAlign(CENTER,CENTER);
     textSize(48);
-    let time = hn + ":" + mn + ";"  + sn;
+    let time = hn + ":" + mn + ":"  + sn;
     text(time,width/2,height/2);
 
 
