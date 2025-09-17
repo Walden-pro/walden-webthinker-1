@@ -14,7 +14,7 @@ function setup() {
 }
 function draw() {
     background("black");
-    textAlign()
+    textAlign(CENTER,CENTER)
     text("Longgggg time ago in a galaxy far...",0,50)
 
 
