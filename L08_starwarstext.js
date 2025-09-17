@@ -35,7 +35,7 @@ function draw() {
         text(story[i],0,textY);
         textY = textY +20;
     }
-ypos = ypos - 2;
+ypos = ypos - 0.69;
 if (ypos < 0){
 
     ypos = height;
