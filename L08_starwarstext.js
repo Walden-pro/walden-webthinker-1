@@ -19,7 +19,7 @@ function draw() {
     text("Longgggg time ago in a galaxy far...",0,0);
     text("At episode 6.8 in the year 1968.9",0,50);
 ypos = ypos - 0.6;
-
+if (ypos )
 
 if (keyIsDown(32)){
 sfx.play();
