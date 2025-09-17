@@ -38,7 +38,7 @@ function draw() {
         textY = textY +20;
     }
 ypos = ypos + 0.69;
-if (ypos < height){
+if (ypos > 0){
 
     ypos =height;
 }
