@@ -30,7 +30,7 @@ function draw() {
     let sn = second();
     textAlign(CENTER,CENTER);
     textSize(48);
-    text(mn,width/2,height/2);
+    text(mn,";",width/2,height/2);
     text(hn,width/2-60,height/2);
     text(mn,width/2,height/2);
 
