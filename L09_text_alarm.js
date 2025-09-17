@@ -2,9 +2,9 @@ let xpos;
 let vx;
 let ypos;
 function setup() {
-    createCanvas(1535, 728);
+    createCanvas(, 728);
     background(220);
-    fill("cyan")
+    fill("black")
     textSize(48);
     textAlign(CENTER, CENTER);
     xpos = width/2;
