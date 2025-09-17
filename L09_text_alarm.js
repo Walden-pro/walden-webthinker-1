@@ -24,7 +24,8 @@ function setup() {
     background(220);
 }
 function draw() {
-    let hn = hour()
+    let hn = hour();
+    let mn = minute()
 
 
 
