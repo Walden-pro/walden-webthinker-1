@@ -5,7 +5,7 @@ sfx=loadSound("assets/star.war.mp3")
 sfx.loop();
 }
 function setup() {
-    createCanvas(600, 400);
+    createCanvas(600, 700);
     background(220);
     fill("cyan")
     textSize(32);
