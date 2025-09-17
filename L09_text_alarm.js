@@ -14,7 +14,7 @@ function draw() {
     background(220);
     translate(xpos, height/2);
     
-    text("Bounce!",width/2,height/2);
+    text("Bounce!",0,0);
     xpos = xpos + vx
 
 
