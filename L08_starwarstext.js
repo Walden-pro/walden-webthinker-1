@@ -10,7 +10,7 @@ function setup() {
     fill("cyan")
     textSize(16);
 
-    ypos=height;
+    ypos=700;
 }
 function draw() {
     let textY = 0;
