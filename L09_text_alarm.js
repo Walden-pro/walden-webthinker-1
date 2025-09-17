@@ -9,7 +9,6 @@ function setup() {
     textAlign(CENTER, CENTER);
     xpos = width/2;
     vx = 50; }
-
 function draw() {
     background(220);
     translate(xpos, height/2);
@@ -17,5 +16,4 @@ function draw() {
     xpos = xpos + vx
     if(xpos > width||xpos < 0){
         vx = vx * -1
-    }
-}
+    } }
