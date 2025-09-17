@@ -4,7 +4,7 @@
 // function setup() {
 //     createCanvas(600, 400);
 //     background(220);
-//     fill("black")
+//     fill("black");
 //     textSize(48);
 //     textAlign(CENTER, CENTER);
 //     xpos = width/2;
@@ -13,7 +13,7 @@
 //     background(220);
 //     translate(xpos, height/2);
 //     text("Bounce!",0,0);
-//     xpos = xpos + vx
+//     xpos = xpos + vx;
 //     if(xpos > width||xpos < 0){
 //         vx = vx * -1;
 //     } }
