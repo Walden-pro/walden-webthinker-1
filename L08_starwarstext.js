@@ -18,7 +18,7 @@ function draw() {
     translate(width/2, ypos);
     background("black");
     textAlign(CENTER, CENTER);
-    scale(1,3);
+    scale();
     // text("Longgggg time ago in a galaxy far...",0,0);
     // text("very very very longggg ago",0,50);
     let story = [
