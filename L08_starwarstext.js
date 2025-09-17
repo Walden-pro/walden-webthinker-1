@@ -13,7 +13,8 @@ function setup() {
     ypos=height;
 }
 function draw() {
-    let texY
+    let textY;
+    
     translate(width/2, ypos);
     background("black");
     textAlign(CENTER, CENTER);
