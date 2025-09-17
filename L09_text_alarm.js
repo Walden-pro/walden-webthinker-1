@@ -25,7 +25,8 @@ function setup() {
 }
 function draw() {
     let hn = hour();
-    let mn = minute()
+    let mn = minute();
+    let sn = second()
 
 
 
