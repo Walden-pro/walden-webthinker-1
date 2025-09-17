@@ -1,4 +1,4 @@
-
+let xpos
 function setup() {
     createCanvas(1535, 727);
     background(220);
