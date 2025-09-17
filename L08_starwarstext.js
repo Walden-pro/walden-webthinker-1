@@ -2,13 +2,13 @@ let sfx;
 let ypos;
 function preload(){
 sfx=loadSound("assets/star.war.mp3")
-sfx.loop();
 }
 function setup() {
     createCanvas(1500, 700);
     background(220);
     fill("cyan")
     textSize(16);
+sfx.loop();
 
     ypos=height;
 }
