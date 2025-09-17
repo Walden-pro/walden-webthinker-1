@@ -16,7 +16,7 @@ function draw() {
     background("black");
     textAlign(CENTER,CENTER)
     text("Longgggg time ago in a galaxy far...",0,0)
-    text("");
+    text("At episode 6.8 ");
 scale(1,3)
 
 
