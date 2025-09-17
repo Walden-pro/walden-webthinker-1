@@ -8,6 +8,10 @@
 // use === to compare a vs b
 // keycode for spacebar is 32
 // keycode for up arrow is UP_ARROW/down arrow blah blah blah
+//2 x -1 = -2
+//-2 x -3 = 6 (remove the -'s if both numbers are have -)
+
+// || is or. && is and.
 
 
 
