@@ -5,12 +5,11 @@ function setup() {
     background(220);
     fill("cyan")
     textSize(16);
-    ypos = height;
 }
 function draw() {
     translate(xpos, height/2);
     textAlign(CENTER, CENTER);
-    text("Bounce!",width/2,728/2);
+    text("Bounce!",width/2,height/2);
 
 
 
