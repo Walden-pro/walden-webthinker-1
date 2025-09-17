@@ -10,12 +10,12 @@ function setup() {
     fill("cyan")
     textSize(16);
 
-    ypos=700;
+    ypos=0;
 }
 function draw() {
     let textY = 0;
 
-    translate(width/2, ypos);
+    translate(width/2, 0);
     background("black");
     textAlign(CENTER, CENTER);
     scale(1,3);
