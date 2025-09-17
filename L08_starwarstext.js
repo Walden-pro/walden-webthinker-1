@@ -14,7 +14,7 @@ function setup() {
 }
 function draw() {
     background("black");
-    text("the beginning of the star wars story...",0,50)
+    text("Longgggg time ago...",0,50)
 if (keyIsDown(32)){
 sfx.play();
 }
