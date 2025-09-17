@@ -7,6 +7,8 @@ function setup() {
     fill("cyan")
     textSize(48);
     textAlign(CENTER, CENTER);
+    xpos = width/2;
+    
 }
 function draw() {
     background(220);
