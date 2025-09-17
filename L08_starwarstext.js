@@ -24,7 +24,7 @@ function draw() {
     let story = [
         "Longggggggggggggggggggggggggggggggggggggggggggg time ago in a galaxy far...",
         "very very very very very very very very very very very very very very very very very very longgggggggggggggggggggggg ago", 
-        "super extremely longgggggggggg ago not even close ",
+        "super extremely longgggggggggg ago not even close when you were born",
         "",
         "",
         "There was a bunch of amonguses...",
