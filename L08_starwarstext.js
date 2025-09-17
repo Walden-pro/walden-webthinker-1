@@ -14,7 +14,7 @@ function setup() {
 }
 function draw() {
     background("black");
-    text("Longgggg time ago...",0,50)
+    text("Longgggg time ago... Where a galaxy",0,50)
 if (keyIsDown(32)){
 sfx.play();
 }
