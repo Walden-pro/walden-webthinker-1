@@ -15,7 +15,7 @@ function setup() {
 function draw() {
     let textY = 0;
 
-    translate(width/2, -500);
+    translate(width/2, -600);
     background("black");
     textAlign(CENTER, CENTER);
     scale(1,3);
