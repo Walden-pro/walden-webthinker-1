@@ -18,7 +18,7 @@ function draw() {
     scale(1,3);
     text("Longgggg time ago in a galaxy far...",0,0);
     text("At episode 6.8 in the year 1968.9",0,40);
-
+ypos = ypos - 0.6;
 
 
 if (keyIsDown(32)){
