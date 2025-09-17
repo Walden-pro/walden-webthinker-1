@@ -1,7 +1,7 @@
 let xpos = 0;
 let ypos = 0;
 function setup() {
-    createCanvas(1535, 727.9);
+    createCanvas(1535, 728);
     background(220);
     fill("cyan")
     textSize(16);
