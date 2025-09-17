@@ -26,7 +26,8 @@ function setup() {
 function draw() {
     let hn = hour();
     let mn = minute();
-    let sn = second()
+    let sn = second();
+    textAlign
 
 
 
