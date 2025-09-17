@@ -18,7 +18,7 @@ function draw() {
     textAlign(CENTER, CENTER);
     scale(1,3);
     text("Longgggg time ago in a galaxy far...",0,0);
-    text("At episode 6.8 in the year 1968.9",0,50);
+    text("very very very longggg ago",0,50);
     let story = [, "There is a spaceship in the space...", "There was a bunch of amonguses...","there is a suspicious person that is the imposter..."]
 ypos = ypos - 0.8;
 if (ypos < 0){
