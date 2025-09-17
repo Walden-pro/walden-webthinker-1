@@ -40,7 +40,7 @@ function draw() {
 ypos = ypos + 0.69;
 if (ypos > height){
 
-    ypos = height;
+    ypos =0;
 }
 
 if (keyIsDown(32)){
