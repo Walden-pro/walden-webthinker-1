@@ -17,3 +17,16 @@
 //     if(xpos > width||xpos < 0){
 //         vx = vx * -1
 //     } }
+
+
+function setup() {
+    createCanvas(1535, 727);
+    background(220);
+}
+function draw() {
+
+
+
+
+
+}
