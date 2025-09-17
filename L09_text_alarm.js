@@ -26,6 +26,7 @@ function setup() {
 function draw() {
     background(220);
     let hn = hour();
+    hn = nf(hn)
     let mn = minute();
     let sn = second();
     textAlign(CENTER,CENTER);
