@@ -28,7 +28,7 @@ function draw() {
         "There was a bunch of amonguses...",
         "there is a suspicious person that is the imposter...",
         "the amonguses have to do their tasks to save the spaceship from dieing...",
-        "the "]
+        "the amonguses are sus"]
     for(let i = 0;i < story.length;i++){
         text(story[i],0,textY);
         textY = textY +35;
