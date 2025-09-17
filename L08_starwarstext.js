@@ -15,8 +15,8 @@ function setup() {
 function draw() {
     background("black");
     textAlign(CENTER,CENTER)
-    text("Longgggg time ago in a galaxy far...",0,50)
-
+    text("Longgggg time ago in a galaxy far...",0,0)
+scale()
 
 
 if (keyIsDown(32)){
