@@ -1,5 +1,5 @@
 let sfx;
-let ypos  = 0 ;
+let ypos;
 function preload(){
 sfx=loadSound("assets/star.war.mp3")
 sfx.loop();
