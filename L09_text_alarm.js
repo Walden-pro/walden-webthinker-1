@@ -9,6 +9,7 @@ function draw() {
 
     background("black");
     textAlign(CENTER, CENTER);
+    text("")
 
 
 
