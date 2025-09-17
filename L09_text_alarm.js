@@ -29,7 +29,7 @@ function draw() {
     let sn = second();
     textAlign(CENTER,CENTER);
     textSize(48);
-    text(minuteNumber,width/2,height/2)
+    text(mn,width/2,height/2)
 
 
 
