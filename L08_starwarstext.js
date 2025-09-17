@@ -26,7 +26,7 @@ function draw() {
         "There was a bunch of amonguses...",
         "there is a suspicious person that is the imposter..."]
     for(let i = 0;i < story.length;i++){
-        text(i,0,100)
+        text(story[index],0,100)
     }
 ypos = ypos - 2;
 if (ypos < 0){
