@@ -6,7 +6,7 @@ function setup() {
     textSize(16);
 }
 function draw() {
-
+    translate()
     background("black");
     textAlign(CENTER, CENTER);
     text("")
