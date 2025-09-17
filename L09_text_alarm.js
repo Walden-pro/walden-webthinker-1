@@ -1,4 +1,5 @@
 let xpos = 0;
+let ypos = height;
 function setup() {
     createCanvas(1535, 727);
     background(220);
