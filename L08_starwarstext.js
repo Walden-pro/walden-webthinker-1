@@ -13,7 +13,7 @@ function setup() {
     ypos=height;
 }
 function draw() {
-    let textY;
+    let textY = 0;
 
     translate(width/2, ypos);
     background("black");
