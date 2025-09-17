@@ -2,7 +2,7 @@ let xpos;
 let vx;
 let ypos;
 function setup() {
-    createCanvas(, 728);
+    createCanvas(600, 400);
     background(220);
     fill("black")
     textSize(48);
