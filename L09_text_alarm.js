@@ -15,7 +15,7 @@ function draw() {
     translate(xpos, height/2);
     text("Bounce!",0,0);
     xpos = xpos + vx
-    if(xpos > width){
+    if(xpos > width||xpos < 0){
         vx = vx * -1
     }
     else if(xpos < 0){
