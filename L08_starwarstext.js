@@ -30,7 +30,7 @@ function draw() {
         "the amonguses have to do their tasks to save the spaceship from dieing...",
         "the amonguses are suspicious that they have a imposter killing their other amonguses...",
         "the amongus vote the imposter out of the spaceship...",
-        "wow the end"]
+        "wow the end!"]
     for(let i = 0;i < story.length;i++){
         text(story[i],0,textY);
         textY = textY +20;
