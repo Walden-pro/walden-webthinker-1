@@ -30,7 +30,7 @@ function draw() {
     let mn = minute();
     mn = nf(mn,2);
     let sn = second();
-    sn = nf(sn,2);
+    sn = nf(ssn,2);
     textAlign(CENTER,CENTER);
     textSize(48);
     let time = [hn,mn,sn];
