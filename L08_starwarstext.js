@@ -16,7 +16,7 @@ function draw() {
     background("black");
     textAlign(CENTER,CENTER)
     text("Longgggg time ago in a galaxy far...",0,0)
-scale()
+scale(1,3)
 
 
 if (keyIsDown(32)){
