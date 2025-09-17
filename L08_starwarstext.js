@@ -13,6 +13,7 @@ function setup() {
     ypos=height;
 }
 function draw() {
+    let texY
     translate(width/2, ypos);
     background("black");
     textAlign(CENTER, CENTER);
@@ -26,7 +27,7 @@ function draw() {
         "There was a bunch of amonguses...",
         "there is a suspicious person that is the imposter..."]
     for(let i = 0;i < story.length;i++){
-        text(story[index],0,text)
+        text(story[index],0,textY)
     }
 ypos = ypos - 2;
 if (ypos < 0){
