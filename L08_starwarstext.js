@@ -23,7 +23,7 @@ function draw() {
     // text("very very very longggg ago",0,50);
     let story = [
         "Longggggggggggggggggggggggggggggggggggggggggggg time ago in a galaxy far...",
-        "very very very very very very very very very very very very very very very very very very longggg ago", 
+        "very very very very very very very very very very very very very very very very very very longgggggggggggggggggggggg ago", 
         "There is a spaceship in the space...", 
         "There was a bunch of amonguses...",
         "there is a suspicious person that is the imposter...",
