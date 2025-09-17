@@ -10,7 +10,7 @@ function draw() {
     translate(width/2, ypos)
     background("black");
     textAlign(CENTER, CENTER);
-    text("Bounce!")
+    text("Bounce!",0,0)
 
 
 
