@@ -18,13 +18,8 @@ function draw() {
     xpos = xpos + vx
     if(xpos > width){
         vx = vx * -1
-
-
     }
     else if(xpos < 0){
         vx = vx * -1
-
     }
-    
-
 }
