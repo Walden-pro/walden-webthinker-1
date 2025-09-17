@@ -28,6 +28,7 @@ function draw() {
     let mn = minute();
     let sn = second();
     textAlign(CENTER,CENTER);
+    textSize(16);
     
 
 
