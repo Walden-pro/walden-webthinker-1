@@ -25,7 +25,7 @@ function draw() {
         "Longggggggggggggggggggggggggggggggggggggggggggg time ago in a galaxy far...",
         "very very very very very very very very very very very very very very very very very very longgggggggggggggggggggggg ago", 
         "super extremely longgggggggggg ago not even close when you were born",
-        "very super longggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg (wow that was actually longggg",
+        "very super longggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg (wow that was actually longggg)",
         "very good and longggggggggggggggggg and good boyyyy",
         "There was a bunch of amonguses...",
         "there is a suspicious person that is the imposter...",
