@@ -33,11 +33,11 @@ function draw() {
         "the amonguses are suspicious that they have a imposter killing their other amonguses...",
         "the amongus vote the imposter out of the spaceship...",
         "wow the end!"]
-    for(let i = 0;i < story.length;i++){
+    for(let i = 0;i > story.length;i++){
         text(story[i],0,textY);
         textY = textY +20;
     }
-ypos = ypos - 0.69;
+ypos = ypos + 0.69;
 if (ypos < 0){
 
     ypos = height;
