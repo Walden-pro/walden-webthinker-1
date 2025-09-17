@@ -28,8 +28,9 @@ function draw() {
     let hn = hour();
     hn = nf(hn,2);
     let mn = minute();
-    
+    mn = nf(hn,2);
     let sn = second();
+    hn = nf(hn,2);
     textAlign(CENTER,CENTER);
     textSize(48);
     let time = [hn,mn,sn];
