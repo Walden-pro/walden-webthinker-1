@@ -22,8 +22,8 @@ function draw() {
 
     }
     else if(xpos < 0){
+        vx = vx * -1
 
-        
     }
     
 
