@@ -7,10 +7,10 @@ function setup() {
     textSize(16);
 }
 function draw() {
-    translate()
+    translate(width/2, ypos)
     background("black");
     textAlign(CENTER, CENTER);
-    text("")
+    text("Bounce!")
 
 
 
