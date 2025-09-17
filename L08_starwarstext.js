@@ -26,7 +26,7 @@ function draw() {
         "very very very very very very very very very very very very very very very very very very longgggggggggggggggggggggg ago", 
         "super extremely longgggggggggg ago not even close when you were born",
         "very super longgggggggggggggggggggggggggggggggggggg",
-        "",
+        "very good and longggggggggggggggggg and good boy",
         "There was a bunch of amonguses...",
         "there is a suspicious person that is the imposter...",
         "the amonguses have to do their tasks to save the spaceship from dieing...",
