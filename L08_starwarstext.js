@@ -13,6 +13,7 @@ function setup() {
     ypos=height;
 }
 function draw() {
+    translate(width/2, ypos);
     background("black");
     textAlign(CENTER, CENTER);
     scale(1,3);
@@ -21,7 +22,7 @@ function draw() {
 ypos = ypos - 0.6;
 if (ypos < 0){
 
-    ypos = height
+    ypos = height;
 }
 
 if (keyIsDown(32)){
