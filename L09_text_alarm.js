@@ -15,7 +15,7 @@
 //     text("Bounce!",0,0);
 //     xpos = xpos + vx
 //     if(xpos > width||xpos < 0){
-//         vx = vx * -1
+//         vx = vx * -1;
 //     } }
 
 
@@ -24,12 +24,13 @@ function setup() {
     background(220);
 }
 function draw() {
+    background(220);
     let hn = hour();
     let mn = minute();
     let sn = second();
     textAlign(CENTER,CENTER);
     textSize(48);
-    text(mn,width/2,height/2)
+    text(mn,width/2,height/2);
 
 
 
