@@ -8,8 +8,8 @@ function setup() {
     textSize(48);
     textAlign(CENTER, CENTER);
     xpos = width/2;
-    vx = 50;
-}
+    vx = 50; }
+
 function draw() {
     background(220);
     translate(xpos, height/2);
