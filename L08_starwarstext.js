@@ -26,8 +26,8 @@ function draw() {
         "very very very longggg ago", 
         "There is a spaceship in the space...", 
         "There was a bunch of amonguses...",
-        "there is a suspicious person that is the imposter..."
-    ]
+        "there is a suspicious person that is the imposter...",
+        ""]
     for(let i = 0;i < story.length;i++){
         text(story[i],0,textY);
         textY = textY +35;
