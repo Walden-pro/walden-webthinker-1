@@ -13,7 +13,6 @@ function setup() {
 function draw() {
     background(220);
     translate(xpos, height/2);
-    
     text("Bounce!",0,0);
     xpos = xpos + vx
     if(xpos > width){
