@@ -1,5 +1,6 @@
-let xpos = 0;
+
 let ypos = 0;
+let vx
 function setup() {
     createCanvas(1535, 728);
     background(220);
