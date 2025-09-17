@@ -5,7 +5,7 @@ function setup() {
     background(220);
     fill("cyan")
     textSize(16);
-    
+    ypos = height;
 }
 function draw() {
     translate(width/2, ypos)
