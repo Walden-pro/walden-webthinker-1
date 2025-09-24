@@ -22,6 +22,7 @@ function setup() {
     createCanvas(1535, 727);
     background(220);}
 function draw() {
+    fill("black")
     background(220);
     let hn = hour();
     hn = nf(hn,2);
