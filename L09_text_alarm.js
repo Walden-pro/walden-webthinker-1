@@ -18,7 +18,7 @@
 //         vx = vx * -1; } }
 let sfx;
 function preload(){
-sfx=loadSound("assets/star.war.mp3");
+sfx=loadSound("assets/bossaNova.mp3");
 
 
 }
