@@ -80,5 +80,8 @@ objectid = setInterval(dosomething,1000);//1000 milliseconds is on second
 function dosomething(){
     counter--; 
     counter = constrain(counter,0,5)
+    if(counter === 0){
+        
+    }
 
 }
