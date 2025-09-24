@@ -81,8 +81,8 @@ clearInterval(objectid);
 objectid = setInterval(dosomething,1000);//1000 milliseconds is on second
 
 }
-    function dosomething(){
-    console.log("I got here");
+function dosomething(){
+console.log("I got here");
 
 
-    }
+}
