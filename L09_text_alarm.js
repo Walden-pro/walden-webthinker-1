@@ -27,7 +27,9 @@ sfx=loadSound("assets/bossaNova.mp3");
 }
 function setup() {
     createCanvas(1535, 727);
-    background(bgcolor);}
+    background(bgcolor);
+    
+    }
 function draw() {
 
     fill("black")
