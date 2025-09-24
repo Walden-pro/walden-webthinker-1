@@ -69,6 +69,6 @@ function keyPressed(){
     }
     if(keyCode === 49){ 
     counter--; 
-    counter = constrain()
+    counter = constrain(counter,0,5)
     }
 }
