@@ -83,8 +83,9 @@ function dosomething(){
         clearInterval(objectid);
         sfx.play()
             for(let i = 0;i < story.length;i++){
-    }
-        bgcolor = color(random(255), random(255),random(255));
+                bgcolor = color(random(255), random(255),random(255));
+            }
+        
 
     }
 
