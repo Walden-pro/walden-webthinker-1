@@ -28,7 +28,7 @@ sfx=loadSound("assets/bossaNova.mp3");
 function setup() {
     createCanvas(1535, 727);
     background(bgcolor);
-    objectid = setInterval(one,1000);//
+    objectid = setInterval(one,1000);//1000 milliseconds is on second
     }
 function draw() {
 
