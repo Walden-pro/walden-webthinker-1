@@ -60,6 +60,8 @@ function draw() {
     else if(keyIsDown(DOWN_ARROW)){ 
     sfx.stop(); 
     }
-
+    else if(keyIsDown(UP_ARROW)){ 
+    sfx.stop(); 
+    }
 
 }
