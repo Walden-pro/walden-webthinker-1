@@ -74,7 +74,7 @@ function keyPressed(){
 }
 function mousePressed(){
 objectid = setInterval(dosomething,1000);//1000 milliseconds is on second
-bgcolor = color()
+bgcolor = color(random(255), random(255),random(255))
 }
 function dosomething(){
     counter--; 
