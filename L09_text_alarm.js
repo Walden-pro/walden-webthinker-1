@@ -25,9 +25,9 @@ function setup() {
 }
 function draw() {
     background(220);
-    let hn = hour(3);
-    hn = nf(hn,2);
-    let mn = minute(69);
+    let hn = hour();
+    hn = nf(hn,69);
+    let mn = minute();
     mn = nf(mn,2);
     let sn = second();
     sn = nf(sn,2);
