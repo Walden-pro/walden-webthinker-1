@@ -71,10 +71,6 @@ function keyPressed(){
     if(keyCode === UP_ARROW){ 
     bgcolor = color(random(255), random(255),random(255));
     }
-    if(keyCode === 49){ 
-    counter--; 
-    counter = constrain(counter,0,5)
-    }
 }
 function mousePressed(){
 clearInterval(objectid);
@@ -82,7 +78,7 @@ objectid = setInterval(dosomething,1000);//1000 milliseconds is on second
 
 }
 function dosomething(){
-console.log("I got here");
-
+    counter--; 
+    counter = constrain(counter,0,5)
 
 }
