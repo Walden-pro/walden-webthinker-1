@@ -30,7 +30,7 @@ function draw() {
 sfx.play();
 }
 
-else if(keyIsDown(DOWN_ARROW)){
+else if(keyIsDown(DOWN_ARROW)){ 
 sfx.stop();
 }
 
