@@ -16,11 +16,11 @@
 //     xpos = xpos + vx;
 //     if(xpos > width||xpos < 0){
 //         vx = vx * -1; } }
-
+let sfx;
 function preload(){
+sfx=loadSound("assets/star.war.mp3")
 
 
-    
 }
 function setup() {
     createCanvas(1535, 727);
