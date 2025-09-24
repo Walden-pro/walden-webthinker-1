@@ -68,9 +68,9 @@ function draw() {
 
 }
 function keyPressed(){
-    if(keyCode === UP_ARROW){ 
-    bgcolor = color(random(255), random(255),random(255));
-    }
+    // if(keyCode === UP_ARROW){ 
+    // bgcolor = color(random(255), random(255),random(255));
+    // }
 }
 function mousePressed(){
 objectid = setInterval(dosomething,1000);//1000 milliseconds is on second
