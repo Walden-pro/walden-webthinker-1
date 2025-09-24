@@ -34,7 +34,7 @@ function draw() {
     textSize(48);
     let time = hn + ":" + mn + ":"  + sn;
     text(time,width/2,height/3);
-    let pi = 3.696966677;
+    let pi = second();
     pi = nf(pi, 1 , 43);
     textSize(25)
     fill("red");
