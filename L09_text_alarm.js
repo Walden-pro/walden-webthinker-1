@@ -74,14 +74,14 @@ function keyPressed(){
 }
 function mousePressed(){
 objectid = setInterval(dosomething,1000);//1000 milliseconds is on second
-bgcolor = color(random(255), random(255),random(255))
+bgcolor = color(random(255), random(255),random(255));
 }
 function dosomething(){
     counter--; 
-    counter = constrain(counter,0,5)
+    counter = constrain(counter,0,5);
     if(counter === 0){
         clearInterval(objectid);
-        sfx.play()
+        sfx.play();
             // for(let index = 0;index < 10;index++){
 
             //     bgcolor = color(random(255), random(255),random(255));
