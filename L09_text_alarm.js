@@ -61,13 +61,13 @@ function draw() {
     else if(keyIsDown(DOWN_ARROW)){ 
     sfx.stop(); 
     }
-    let i;
-    if (counter = 0){
-        for(let i = 0;i < 5;i++){
-        bgcolor = color(random(255), random(255),random(255))
-    }
+    // let i;
+    // if (counter = 0){
+    //     for(let i = 0;i < 5;i++){
+    //     bgcolor = color(random(255), random(255),random(255))
+    // }
 
-    }
+    // }
 }
 function keyPressed(){
     if(keyCode === UP_ARROW){ 
