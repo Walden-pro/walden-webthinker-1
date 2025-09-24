@@ -26,12 +26,7 @@ function setup() {
     createCanvas(1535, 727);
     background(220);}
 function draw() {
-    if (keyIsDown(32)){
-    sfx.play();
-    }
-    else if(keyIsDown(DOWN_ARROW)){ 
-    sfx.stop(); 
-    }
+
     fill("black")
     background(220);
     let hn = hour();
@@ -57,7 +52,12 @@ function draw() {
     text(pi , width/2 , height/2+ 50);
     text("Countdown timer hmmmmmmmm...", width/2 , height/2 - 50);
     text("Click me to start the longggggg timer", width/2 , height/2 + 150);
-
+        if (keyIsDown(32)){
+    sfx.play();
+    }
+    else if(keyIsDown(DOWN_ARROW)){ 
+    sfx.stop(); 
+    }
 
 
 
