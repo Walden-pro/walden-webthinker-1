@@ -31,13 +31,13 @@ function setup() {
     objectid = setInterval(dosomething,1000);//1000 milliseconds is on second
     }
     function dosomething(){
-        console.log
+        console.log("I got here");
 
 
     }
 function draw() {
 
-    fill("black")
+    fill("black");
     background(bgcolor);
     let hn = hour();
     hn = nf(hn,2);
