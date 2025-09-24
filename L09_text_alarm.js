@@ -82,6 +82,7 @@ function dosomething(){
     if(counter === 0){
         clearInterval(objectid);
         sfx.play()
+        bgcolor = color(random(255), random(255),random(255));
 
     }
 
