@@ -30,11 +30,7 @@ function setup() {
     background(bgcolor);
     
     }
-    function dosomething(){
-    console.log("I got here");
 
-
-    }
 function draw() {
 
     fill("black");
@@ -82,6 +78,6 @@ function keyPressed(){
 }
 function mousePressed(){
 clearInterval(objectid);
-
+objectid = setInterval(dosomething,1000);//1000 milliseconds is on second
 
 }
