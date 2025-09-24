@@ -55,6 +55,9 @@ function draw() {
     text("Countdown timer hmmmmmmmm...", width/2 , height/2 - 50);
     text("Click me to start the longggggg timer", width/2 , height/2 + 150);
     text(counter,width/2,height/2+50)
+    if(keyIsDown(DOWN_ARROW)){ 
+    sfx.stop(); 
+    }
         if (keyIsDown(32)){
     sfx.play();
     }
