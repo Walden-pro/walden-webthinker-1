@@ -63,7 +63,7 @@ function draw() {
     }
     if (counter = 0){
         for(let i = 0;i < 5;i++){
-        bgcolor = color()
+        bgcolor = color(random(255), random(255),random(255))
     }
 
     }
