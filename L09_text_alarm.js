@@ -39,7 +39,8 @@ function draw() {
     textSize(48);
     let time = hn + ":" + mn + ":"  + sn;
     text(time,width/2,height/3);
-    let pi = nf(pi,1,3);
+    let pi;
+    pi = nf(pi,1,3);
 
     
 
