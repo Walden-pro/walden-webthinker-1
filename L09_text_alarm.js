@@ -62,8 +62,8 @@ function draw() {
     sfx.stop(); 
     }
     if (counter = 0){
+    
 
-        
     }
 }
 function keyPressed(){
