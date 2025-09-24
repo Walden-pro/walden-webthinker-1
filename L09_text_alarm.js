@@ -44,7 +44,7 @@ function draw() {
     pi = nf(pi, 1 , 1);
     textSize(25)
     fill("red");
-    text("pi is "+ pi , width/2 , height/2+ 50);
+    text(pi , width/2 , height/2+ 50);
     text("Countdown timer hmmmmmmmm...", width/2 , height/2 - 50);
     text("Click me to start the longggggg timer", width/2 , height/2 + 150);
 
