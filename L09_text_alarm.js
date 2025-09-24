@@ -51,7 +51,7 @@ function draw() {
 
     // let pi = 0;
     // pi = nf(pi,1,0);
-    
+
 
     textSize(25);
     fill("red");
@@ -74,7 +74,7 @@ function keyPressed(){
 }
 function mousePressed(){
 objectid = setInterval(dosomething,1000);//1000 milliseconds is on second
-
+bgcolor = color()
 }
 function dosomething(){
     counter--; 
