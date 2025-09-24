@@ -42,8 +42,7 @@ function draw() {
     let pi = nf(pi,1,3);
 
     
-    
-    pi = nf(pi, 1 , 1);
+
     textSize(25)
     fill("red");
     text(pi , width/2 , height/2+ 50);
