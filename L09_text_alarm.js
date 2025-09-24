@@ -17,7 +17,11 @@
 //     if(xpos > width||xpos < 0){
 //         vx = vx * -1; } }
 
+function preload(){
 
+
+    
+}
 function setup() {
     createCanvas(1535, 727);
     background(220);}
