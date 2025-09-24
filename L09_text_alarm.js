@@ -20,8 +20,7 @@
 
 function setup() {
     createCanvas(1535, 727);
-    background(220);
-}
+    background(220);}
 function draw() {
     background(220);
     let hn = hour();
