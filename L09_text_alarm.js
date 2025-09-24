@@ -34,8 +34,12 @@ function draw() {
     textSize(48);
     let time = hn + ":" + mn + ":"  + sn;
     text(time,width/2,height/3);
-    let pi = second();
-    pi = nf(pi, 1 , 43);
+    for (let index=0;index<ffs.length;index++){
+
+        
+    }
+    let pi = pi;
+    pi = nf(pi, 1 , 4);
     textSize(25)
     fill("red");
     text("pi is "+ pi , width/2 , height/2+ 50);
