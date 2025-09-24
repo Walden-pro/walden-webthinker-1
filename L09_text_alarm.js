@@ -19,7 +19,7 @@
 let bgcolor = 220;
 let sfx;
 let counter = 5;
-let o
+let objectid;
 function preload(){
 sfx=loadSound("assets/bossaNova.mp3");
 
