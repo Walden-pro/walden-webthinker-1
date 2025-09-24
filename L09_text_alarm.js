@@ -49,7 +49,7 @@ function draw() {
 
     
 
-    textSize(25)
+    textSize(25);
     fill("red");
     text(pi , width/2 , height/2+ 50);
     text("Countdown timer hmmmmmmmm...", width/2 , height/2 - 50);
@@ -61,7 +61,7 @@ function draw() {
     sfx.stop(); 
     }
     else if(keyIsDown(UP_ARROW)){ 
-    bgcolor = color(random(255), random(255),random(255))
+    bgcolor = color(random(255), random(255),random(255));
     }
 
 }
