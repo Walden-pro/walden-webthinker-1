@@ -73,7 +73,7 @@ function keyPressed(){
     // }
 }
 function mousePressed(){
-objectid = setInterval(dosomething,1000);//1000 milliseconds is on second
+objectid = setInterval(dosomething,1000);//1000 milliseconds is one second
 bgcolor = color(random(255), random(255),random(255));
 }
 function dosomething(){
