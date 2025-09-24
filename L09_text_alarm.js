@@ -47,7 +47,17 @@ function draw() {
     let pi = 0;
     pi = nf(pi,1,0);
 
-    
+    function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+async function demonstrateSleep() {
+  console.log("Start");
+  await sleep(3000); // Pause for 3 seconds
+  console.log("After 3-second sleep");
+}
+
+demonstrateSleep();
 
     textSize(25);
     fill("red");
