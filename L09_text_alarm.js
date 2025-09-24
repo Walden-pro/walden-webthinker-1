@@ -60,11 +60,12 @@ function draw() {
     else if(keyIsDown(DOWN_ARROW)){ 
     sfx.stop(); 
     }
-    else if(keyIsDown(UP_ARROW)){ 
+    if(keyIsDown(UP_ARROW)){ 
     bgcolor = color(random(255), random(255),random(255));
     }
 
 }
 function keyPressed(){
-    
+
+
 }
