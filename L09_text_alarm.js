@@ -37,6 +37,7 @@ function draw() {
     pi = nf(pi, 1 , 43);
     fill("red");
     text("pi is "+ pi , width/2 , height/2+ 50);
+    text("pi is "+ pi , width/2 , height/2+ 50);
 
 
 
