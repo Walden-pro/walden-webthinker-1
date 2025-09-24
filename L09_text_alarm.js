@@ -30,7 +30,8 @@ function draw() {
     sfx.play();
     }
     else if(keyIsDown(DOWN_ARROW)){ 
-    sfx.stop(); }
+    sfx.stop(); 
+    }
     fill("black")
     background(220);
     let hn = hour();
