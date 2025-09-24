@@ -61,7 +61,10 @@ function draw() {
     else if(keyIsDown(DOWN_ARROW)){ 
     sfx.stop(); 
     }
+    if (counter = 0){
 
+        
+    }
 }
 function keyPressed(){
     if(keyCode === UP_ARROW){ 
