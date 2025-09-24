@@ -39,7 +39,7 @@ function draw() {
     fill("red");
     text("pi is "+ pi , width/2 , height/2+ 50);
     text("Countdown timer hmmmmmmmm...", width/2 , height/2 - 50);
-    text("Click me to start the lon", width/2 , height/2 + 100);
+    text("Click me to start the longggggg timer", width/2 , height/2 + 150);
 
 
 
