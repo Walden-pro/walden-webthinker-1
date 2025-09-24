@@ -82,7 +82,7 @@ function dosomething(){
     if(counter === 0){
         clearInterval(objectid);
         sfx.play();
-        
+        bgcolor = color("cyan")
             // for(let index = 0;index < 10;index++){
 
             //     bgcolor = color(random(255), random(255),random(255));
