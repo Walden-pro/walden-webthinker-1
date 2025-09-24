@@ -26,6 +26,14 @@ function setup() {
     createCanvas(1535, 727);
     background(220);}
 function draw() {
+    if (keyIsDown(32)){
+sfx.play();
+}
+
+else if(keyIsDown(DOWN_ARROW)){
+sfx.stop();
+}
+
     fill("black")
     background(220);
     let hn = hour();
