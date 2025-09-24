@@ -36,6 +36,7 @@ function draw() {
     text(time,width/2,height/3);
     let pi = 3.696966677;
     pi = nf(pi, 1 , 43);
+    
     fill("red");
     text("pi is "+ pi , width/2 , height/2+ 50);
     text("Countdown timer hmmmmmmmm...", width/2 , height/2 - 50);
