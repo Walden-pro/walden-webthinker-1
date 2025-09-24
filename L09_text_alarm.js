@@ -29,7 +29,7 @@ function setup() {
 function draw() {
 
     fill("black")
-    background(220);
+    background(bgcolor);
     let hn = hour();
     hn = nf(hn,2);
     let mn = minute();
