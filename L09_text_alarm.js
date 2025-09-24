@@ -16,6 +16,7 @@
 //     xpos = xpos + vx;
 //     if(xpos > width||xpos < 0){
 //         vx = vx * -1; } }
+let bgcolor;
 let sfx;
 function preload(){
 sfx=loadSound("assets/bossaNova.mp3");
