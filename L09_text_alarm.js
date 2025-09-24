@@ -35,7 +35,7 @@ function draw() {
     let time = hn + ":" + mn + ":"  + sn;
     text(time,width/2,height/3);
     let pi = pi;
-    let index
+    let index;
     for (let index=0;index<ffs.length;index++){
     pi = 5
     pi = pi - 1
