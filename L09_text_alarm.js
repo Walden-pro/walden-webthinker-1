@@ -68,5 +68,7 @@ function keyPressed(){
     if(keyCode === UP_ARROW){ 
     bgcolor = color(random(255), random(255),random(255));
     }
-
+    if(keyCode === 49){ 
+    counter--; 
+    }
 }
