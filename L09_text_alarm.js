@@ -42,9 +42,9 @@ function draw() {
 
 
 
-    
+
     let pi;
-    pi = nf(pi,1,3);
+    pi = nf(pi,1,1);
 
     
 
