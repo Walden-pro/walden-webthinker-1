@@ -82,7 +82,7 @@ function dosomething(){
     if(counter === 0){
         clearInterval(objectid);
         sfx.play()
-            for(let i = 0;i < story.length;i++){
+            for(let index = 0;index < 5;index++){
                 bgcolor = color(random(255), random(255),random(255));
             }
         
