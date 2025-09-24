@@ -28,7 +28,7 @@ sfx=loadSound("assets/bossaNova.mp3");
 function setup() {
     createCanvas(1535, 727);
     background(bgcolor);
-    objectid = setInterval(dosomething,10);//1000 milliseconds is on second
+    objectid = setInterval(dosomething,0.00001);//1000 milliseconds is on second
     }
     function dosomething(){
     console.log("I got here");
