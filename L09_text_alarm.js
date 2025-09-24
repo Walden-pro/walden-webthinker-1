@@ -30,6 +30,11 @@ function setup() {
     background(bgcolor);
     objectid = setInterval(dosomething,1000);//1000 milliseconds is on second
     }
+    function dosomething(){
+
+
+        
+    }
 function draw() {
 
     fill("black")
