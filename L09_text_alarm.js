@@ -31,7 +31,7 @@ function setup() {
     objectid = setInterval(dosomething,1000);//1000 milliseconds is on second
     }
     function dosomething(){
-        console.log("I got here");
+    console.log("I got here");
 
 
     }
