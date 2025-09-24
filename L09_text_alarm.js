@@ -46,7 +46,7 @@ function draw() {
 
     textSize(25)
     fill("red");
-    text(pi , width/2 , height/2+ 50);
+    text("0"+pi , width/2 , height/2+ 50);
     text("Countdown timer hmmmmmmmm...", width/2 , height/2 - 50);
     text("Click me to start the longggggg timer", width/2 , height/2 + 150);
         if (keyIsDown(32)){
