@@ -45,8 +45,8 @@ function draw() {
 
 
 
-    let pi = 0;
-    pi = nf(pi,1,0);
+    // let pi = 0;
+    // pi = nf(pi,1,0);
 
 
     textSize(25);
