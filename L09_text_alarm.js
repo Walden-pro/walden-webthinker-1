@@ -81,7 +81,7 @@ function keyPressed(){
     }
 }
 function mousePressed(){
-
+clear 
 
 
 }
