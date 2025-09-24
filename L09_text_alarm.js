@@ -44,7 +44,7 @@ function draw() {
 
 
     let pi = 0;
-    pi = nf(pi,1,-2);
+    pi = nf(pi,1,);
 
     
 
