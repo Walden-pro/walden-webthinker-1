@@ -61,7 +61,7 @@ function draw() {
     sfx.stop(); 
     }
     else if(keyIsDown(UP_ARROW)){ 
-    bgcolor = color(random(255),)
+    bgcolor = color(random(255), random(255),random(255))
     }
 
 }
