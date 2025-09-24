@@ -61,7 +61,7 @@ function draw() {
     sfx.stop(); 
     }
     else if(keyIsDown(UP_ARROW)){ 
-    sfx.stop(); 
+    bgcolor 
     }
 
 }
