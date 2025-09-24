@@ -81,7 +81,7 @@ function dosomething(){
     counter = constrain(counter,0,5)
     if(counter === 0){
         clearInterval(objectid);
-        sfx.play
+        sfx.play()
 
     }
 
