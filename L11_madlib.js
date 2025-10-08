@@ -6,7 +6,7 @@ function setup() {
     createCanvas(1535, 727);
     background(220);
 ist = createInput(story,"text");
-ist.position(50,50);
+ist.position(350,50);
 ist.size(350);
 
 button1 = createButton("Click on me");
