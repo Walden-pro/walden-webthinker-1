@@ -1,7 +1,7 @@
 let inputverb;
 let button1;
 let story;
-let inputnoun;
+
 function setup() {
     createCanvas(1535, 727);
     background(220);
