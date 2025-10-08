@@ -57,7 +57,8 @@ textSize(20);
 text("Enter a noun:",150,70);
 text("Enter a verb:",150,120);
 text("Enter an adjective:",150,170);
-
+text("Enter a verb:",150,120);
+text("Enter an place:",150,170);
 
 
 }
