@@ -1,7 +1,7 @@
 let ist;
 let button1;
 let story;
-let fontWeight;
+
 function setup() {
     createCanvas(1535, 727);
     background(220);
@@ -28,7 +28,7 @@ function updatestory() {
 function draw() {
 
 textSize(28);
-text("Enter a noun:",100,68).style.fontWeight = "Normal";
+text("Enter a noun:",100,68).style.fontWeight = "normal";
 
 
 }
