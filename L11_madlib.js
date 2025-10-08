@@ -17,7 +17,8 @@ button1.mousePressed(updatestory);
 }
 function updatestory() {
 story = ist.value();
-textAlign(C)
+textAlign(CENTRE,CENTRE);
+
 
 
 }
