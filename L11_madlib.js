@@ -16,7 +16,7 @@ button1.mousePressed(updatestory);
 
 }
 function updatestory() {
-
+story = ist
 
 
 }
