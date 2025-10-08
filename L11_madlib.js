@@ -16,8 +16,8 @@ inputverb = createInput(story,"text");
 inputverb.position(350,100);
 inputverb.size(350);
 
-inputverb = createInput(story,"text");
-inputverb.position(350,100);
+inputadjective = createInput(story,"text");
+inputadjective.position(350,100);
 inputverb.size(350);
 
 button1 = createButton("Generate story");
