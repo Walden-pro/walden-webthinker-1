@@ -21,7 +21,7 @@ story = ist.value();
 textAlign(CENTER,CENTER);
 textSize(28);
 text(story,width/2,250);
-ist.position(350,50);
+text("",250,50);
 
 }
 function draw() {
