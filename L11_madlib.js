@@ -30,15 +30,10 @@ console.log(inputnoun.value())
 
 
 }
-function mousePressed(){
-
-
-
-}
 function draw() {
 
 textSize(20);
 text("Enter a noun:",100,68);
-
+text("Enter a noun:",100,68);
 
 }
