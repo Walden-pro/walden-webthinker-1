@@ -45,8 +45,8 @@ function updatestory() {
 // console.log(inputplace.value())
 
 text(inputnoun.value(),inputverb.value(),inputadjective.value())
-console.log(inputadverb.value())
-console.log(inputplace.value())
+inputadverb.value()
+inputplace.value()
 
 //      background(220);
 // story = ist.value();
