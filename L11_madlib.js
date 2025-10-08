@@ -38,11 +38,13 @@ button1.mousePressed(updatestory);
 
 }
 function updatestory() {
-console.log(inputnoun.value())
-console.log(inputverb.value())
-console.log(inputadjective.value())
-console.log(inputadverb.value())
-console.log(inputplace.value())
+// console.log(inputnoun.value())
+// console.log(inputverb.value())
+// console.log(inputadjective.value())
+// console.log(inputadverb.value())
+// console.log(inputplace.value())
+
+text
 //      background(220);
 // story = ist.value();
 // textAlign(CENTER,CENTER);
