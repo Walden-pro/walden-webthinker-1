@@ -11,7 +11,7 @@ function setup() {
     createCanvas(1535, 727);
     background(220);
 
-inputnoun = createInput(story,"text");
+inputnoun = createInput(story,"e.g.dog");
 inputnoun.position(350,50);
 inputnoun.size(350);
 
