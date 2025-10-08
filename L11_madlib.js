@@ -28,8 +28,8 @@ console.log()
 }
 function draw() {
 
-textSize(28);
-text("Enter a noun:",100,68).style.fontWeight = 'normal';
+textSize(14);
+text("Enter a noun:",100,68);
 
 
 }
