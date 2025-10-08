@@ -1,7 +1,7 @@
 let ist;
 let ist2;
 let button1;
-let story;
+let story = ".";
 
 function setup() {
     createCanvas(1535, 727);
