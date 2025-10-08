@@ -11,15 +11,15 @@ function setup() {
     createCanvas(1535, 727);
     background(220);
 
-inputnoun = createInput(story,"e.g dog");
+inputnoun = createInput(story,"text");
 inputnoun.position(350,50);
 inputnoun.size(350);
 
-inputverb = createInput(story,"e.g jump");
+inputverb = createInput(story,"text");
 inputverb.position(350,100);
 inputverb.size(350);
 
-inputadjective = createInput(story,"e.g happy");
+inputadjective = createInput(story,"text");
 inputadjective.position(350,150);
 inputadjective.size(350);
 
