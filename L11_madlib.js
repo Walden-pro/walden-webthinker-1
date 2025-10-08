@@ -27,7 +27,7 @@ function updatestory() {
 function draw() {
 
 textSize(28);
-text("Enter a noun;",100,68).style.fontWeight = "Normal";
+text("Enter a noun;",width/2-20,68).style.fontWeight = "Normal";
 
 
 }
