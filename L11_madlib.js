@@ -26,6 +26,11 @@ console.log()
 
 
 }
+function mousePressed(){
+
+
+    
+}
 function draw() {
 
 textSize(20);
