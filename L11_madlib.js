@@ -2,7 +2,7 @@ let ist;
 let ist2;
 let button1;
 let story;
-let inputnoun;
+let inputNoun;
 function setup() {
     createCanvas(1535, 727);
     background(220);
@@ -17,7 +17,7 @@ button1.mousePressed(updatestory);
 
 }
 function updatestory() {
-console.log(inputnoun.value())
+console.log(inputNoun.value())
 //      background(220);
 // story = ist.value();
 // textAlign(CENTER,CENTER);
