@@ -29,9 +29,9 @@ button1.mousePressed(updatestory);
 function updatestory() {
 console.log(inputnoun.value())
 console.log(inputverb.value())
-console.log(inputnoun.value())
-console.log(inputnoun.value())
-console.log(inputnoun.value())
+console.log(inputadjective.value())
+// console.log(inputnoun.value())
+// console.log(inputnoun.value())
 //      background(220);
 // story = ist.value();
 // textAlign(CENTER,CENTER);
