@@ -10,7 +10,7 @@ ist.position(350,50);
 ist.size(350);
 
 button1 = createButton("Click on me");
-button1.position(50,100);
+button1.position(250,100);
 button1.size(100,50);
 button1.mousePressed(updatestory);
 
@@ -26,7 +26,7 @@ text(story,width/2,250);
 }
 function draw() {
 textSize(28);
-text("enter your noun;",150,68);
+text("enter your noun;",100,68);
 
 
 }
