@@ -5,7 +5,11 @@ let inputnoun;
 function setup() {
     createCanvas(1535, 727);
     background(220);
-    
+
+inputnoun = createInput(story,"text");
+inputnoun.position(350,50);
+inputnoun.size(350);
+
 inputnoun = createInput(story,"text");
 inputnoun.position(350,50);
 inputnoun.size(350);
