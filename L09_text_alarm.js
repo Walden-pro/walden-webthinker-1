@@ -20,19 +20,14 @@ let bgcolor = 220;
 let sfx;
 let counter = 5;
 let objectid;
+let secondid;
 function preload(){
 sfx=loadSound("assets/bossaNova.mp3");
-
-
 }
 function setup() {
-    createCanvas(1535, 727);
-    background(bgcolor);
-    
-    }
-
+    createCanvas(800, 600);
+    background(bgcolor);}
 function draw() {
-
     fill("black");
     background(bgcolor);
     let hn = hour();
@@ -46,35 +41,27 @@ function draw() {
     let time = hn + ":" + mn + ":"  + sn;
     text(time,width/2,height/3);
 
-
-
-
-    // let pi = 0;
-    // pi = nf(pi,1,0);
-
-
     textSize(25);
     fill("red");
-    // text(pi , width/2 , height/2+ 50);
     text("Countdown timer hmmmmmmmm...", width/2 , height/2 - 50);
     text("Click me to start the longggggg timer", width/2 , height/2 + 150);
     text(counter,width/2,height/2+50)
-    //     if (keyIsDown(32)){
-    // sfx.play();
-    // }
-    // else if(keyIsDown(DOWN_ARROW)){ 
-    // sfx.stop(); 
-    // }
+
 
 }
 function keyPressed(){
-    // if(keyCode === UP_ARROW){ 
-    // bgcolor = color(random(255), random(255),random(255));
-    // }
+    if(keyCode === UP_ARROW){ 
+    sfx.play();
+    }
+        if(keyCode === DOWN_ARROW){ 
+    sfx.stop();
+    }
 }
 function mousePressed(){
+    if(counter === 5){
 objectid = setInterval(dosomething,1000);//1000 milliseconds is one second
-bgcolor = color(random(255), random(255),random(255));
+UserStartAudio();
+}
 }
 function dosomething(){
     counter--; 
@@ -82,13 +69,21 @@ function dosomething(){
     if(counter === 0){
         clearInterval(objectid);
         sfx.play();
-        bgcolor = color("cyan")
+        secondid = setInterval(blinkBG,500);
             // for(let index = 0;index < 10;index++){
 
             //     bgcolor = color(random(255), random(255),random(255));
             // }
-        
-
     }
+}
 
+
+let bc = 0;
+function blinkBG(){
+bc++;
+bgcolor = color(random(255), random(255),random(255));
+if (bc === 10){
+clearInterval(secondid);
+bgcolor = 220;
+}
 }
