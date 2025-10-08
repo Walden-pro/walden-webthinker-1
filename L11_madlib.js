@@ -24,11 +24,11 @@ inputadjective.position(350,150);
 inputadjective.size(350);
 
 inputadverb = createInput(story,"text");
-inputadverb.position(350,100);
+inputadverb.position(350,200);
 inputadverb.size(350);
 
 inputplace = createInput(story,"text");
-inputplace.position(350,150);
+inputplace.position(350,250);
 inputplace.size(350);
 
 button1 = createButton("Generate story");
