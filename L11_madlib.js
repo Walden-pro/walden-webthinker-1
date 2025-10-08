@@ -26,7 +26,7 @@ text(story,width/2,250);
 }
 function draw() {
 textSize(28);
-text("enter your noun;",250,50);
+text("enter your noun;",250,);
 
 
 }
