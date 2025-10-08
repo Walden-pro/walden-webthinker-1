@@ -1,13 +1,13 @@
 
 let button1;
 let story;
-let inputNoun;
+let inputnoun;
 function setup() {
     createCanvas(1535, 727);
     background(220);
-ist = createInput(story,"text");
-ist.position(350,50);
-ist.size(350);
+inputnoun = createInput(story,"text");
+inputnoun.position(350,50);
+inputnoun.size(350);
 
 button1 = createButton("Generate story");
 button1.position(350,100);
