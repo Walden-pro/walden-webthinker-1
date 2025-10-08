@@ -44,7 +44,7 @@ function updatestory() {
 // console.log(inputadverb.value())
 // console.log(inputplace.value())
 
-text(inputnoun,inputverb,inputadjective,inputadverb,inputplace,250,600);
+text(inputnoun,250,600);
 
 
 
