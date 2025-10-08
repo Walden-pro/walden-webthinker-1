@@ -1,4 +1,4 @@
-
+let inputverb
 let button1;
 let story;
 let inputnoun;
