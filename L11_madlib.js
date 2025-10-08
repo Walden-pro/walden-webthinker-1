@@ -20,7 +20,7 @@ function updatestory() {
 story = ist.value();
 textAlign(CENTER,CENTER);
 textSize(28);
-text(story,50,250);
+text(story,50,width/2);
 
 
 }
