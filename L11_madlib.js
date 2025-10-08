@@ -2,7 +2,7 @@ let inputnoun;
 let inputverb;
 let inputadjective;
 let inputadverb;
-let inputadjective;
+let inputplace;
 
 let button1;
 let story;
@@ -14,6 +14,14 @@ function setup() {
 inputnoun = createInput(story,"text");
 inputnoun.position(350,50);
 inputnoun.size(350);
+
+inputverb = createInput(story,"text");
+inputverb.position(350,100);
+inputverb.size(350);
+
+inputadjective = createInput(story,"text");
+inputadjective.position(350,150);
+inputadjective.size(350);
 
 inputverb = createInput(story,"text");
 inputverb.position(350,100);
