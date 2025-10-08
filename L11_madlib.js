@@ -18,7 +18,7 @@ button1.mousePressed(updatestory);
 function updatestory() {
 story = ist.value();
 textAlign(CENTRE,CENTRE);
-text(story,50,250);
+text(story,height/2,250);
 
 
 }
