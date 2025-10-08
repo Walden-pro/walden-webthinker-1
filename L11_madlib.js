@@ -1,6 +1,9 @@
 let inputnoun;
 let inputverb;
 let inputadjective;
+let inputadverb;
+let inputadjective;
+
 let button1;
 let story;
 
