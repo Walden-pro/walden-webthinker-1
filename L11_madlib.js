@@ -27,7 +27,7 @@ inputadverb = createInput(story,"e.g angrily");
 inputadverb.position(350,200);
 inputadverb.size(350);
 
-inputplace = createInput(story,"e.g dog");
+inputplace = createInput(story,"e.g USA");
 inputplace.position(350,250);
 inputplace.size(350);
 
