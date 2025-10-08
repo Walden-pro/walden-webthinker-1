@@ -1,6 +1,6 @@
 let inputnoun;
 let inputverb;
-
+let inputverb;
 let button1;
 let story;
 
