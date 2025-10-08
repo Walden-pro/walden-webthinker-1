@@ -16,11 +16,11 @@ button1.mousePressed(updatestory);
 
 }
 function updatestory() {
-     background(220);
-story = ist.value();
-textAlign(CENTER,CENTER);
-textSize(28);
-text(story,width/2,250);
+//      background(220);
+// story = ist.value();
+// textAlign(CENTER,CENTER);
+// textSize(28);
+// text(story,width/2,250);
 
 
 }
