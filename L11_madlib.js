@@ -21,10 +21,11 @@ story = ist.value();
 textAlign(CENTER,CENTER);
 textSize(28);
 text(story,width/2,250);
-text("Enter your noun;",150,50);
+
 
 }
 function draw() {
+
 
 
 
