@@ -15,7 +15,7 @@ inputnoun = createInput(story,"e.g dog");
 inputnoun.position(350,50);
 inputnoun.size(350);
 
-inputverb = createInput(story,"e.g dog");
+inputverb = createInput(story,"e.g jump");
 inputverb.position(350,100);
 inputverb.size(350);
 
@@ -23,11 +23,11 @@ inputadjective = createInput(story,"e.g dog");
 inputadjective.position(350,150);
 inputadjective.size(350);
 
-inputadverb = createInput(story,"text");
+inputadverb = createInput(story,"e.g dog");
 inputadverb.position(350,200);
 inputadverb.size(350);
 
-inputplace = createInput(story,"text");
+inputplace = createInput(story,"e.g dog");
 inputplace.position(350,250);
 inputplace.size(350);
 
