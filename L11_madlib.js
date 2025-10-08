@@ -11,7 +11,7 @@ inputnoun.position(350,50);
 inputnoun.size(350);
 
 inputverb = createInput(story,"text");
-inputverb.position(350,50);
+inputverb.position(350,100);
 inputverb.size(350);
 
 button1 = createButton("Generate story");
