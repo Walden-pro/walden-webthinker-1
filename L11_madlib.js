@@ -1,4 +1,5 @@
 let ist;
+let ist2;
 let button1;
 let story;
 
