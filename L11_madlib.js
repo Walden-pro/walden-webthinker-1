@@ -27,7 +27,7 @@ function updatestory() {
 }
 function draw() {
 
-textSize(20);
+textSize(28);
 text("Enter a noun:",100,68)
 
 
