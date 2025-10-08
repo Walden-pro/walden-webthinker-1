@@ -33,7 +33,7 @@ console.log(inputnoun.value())
 function draw() {
 
 textSize(20);
-text("Enter a noun:",100,68);
-text("Enter a noun:",100,68);
+text("Enter a noun:",100,70);
+text("Enter a verb:",100,68);
 
 }
