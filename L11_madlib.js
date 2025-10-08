@@ -32,7 +32,7 @@ inputplace.position(350,250);
 inputplace.size(350);
 
 button1 = createButton("Generate story");
-button1.position(350,500);
+button1.position(350,300);
 button1.size(100,50);
 button1.mousePressed(updatestory);
 
