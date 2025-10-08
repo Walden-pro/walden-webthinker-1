@@ -10,9 +10,9 @@ inputnoun = createInput(story,"text");
 inputnoun.position(350,50);
 inputnoun.size(350);
 
-inputnoun = createInput(story,"text");
-inputnoun.position(350,50);
-inputnoun.size(350);
+inputverb = createInput(story,"text");
+inputverb.position(350,50);
+inputverb.size(350);
 
 button1 = createButton("Generate story");
 button1.position(350,100);
