@@ -9,7 +9,7 @@ ist = createInput(story,"text");
 ist.position(350,50);
 ist.size(350);
 
-button1 = createButton("Click on me");
+button1 = createButton("Generate story");
 button1.position(350,100);
 button1.size(100,50);
 button1.mousePressed(updatestory);
