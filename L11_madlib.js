@@ -3,7 +3,7 @@ let button1;
 let story;
 
 function setup() {
-    createCanvas(600, 600);
+    createCanvas(1535, 600);
     background(220);
 ist = createInput(story,"text");
 ist.position(50,50);
