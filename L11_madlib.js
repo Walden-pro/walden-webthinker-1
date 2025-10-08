@@ -16,7 +16,7 @@ button1.mousePressed(updatestory);
 
 }
 function updatestory() {
-    console.log()
+console.log()
 //      background(220);
 // story = ist.value();
 // textAlign(CENTER,CENTER);
