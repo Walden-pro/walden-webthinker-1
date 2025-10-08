@@ -23,13 +23,13 @@ inputadjective = createInput(story,"text");
 inputadjective.position(350,150);
 inputadjective.size(350);
 
-inputverb = createInput(story,"text");
-inputverb.position(350,100);
-inputverb.size(350);
+inputadverb = createInput(story,"text");
+inputadverb.position(350,100);
+inputadverb.size(350);
 
 inputadjective = createInput(story,"text");
 inputadjective.position(350,150);
-inputadjective.size(350);
+inputplace.size(350);
 
 button1 = createButton("Generate story");
 button1.position(350,500);
