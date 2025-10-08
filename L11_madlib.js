@@ -19,11 +19,11 @@ inputverb = createInput(story,"e.g jump");
 inputverb.position(350,100);
 inputverb.size(350);
 
-inputadjective = createInput(story,"e.g dog");
+inputadjective = createInput(story,"e.g happy");
 inputadjective.position(350,150);
 inputadjective.size(350);
 
-inputadverb = createInput(story,"e.g dog");
+inputadverb = createInput(story,"e.g angrily");
 inputadverb.position(350,200);
 inputadverb.size(350);
 
