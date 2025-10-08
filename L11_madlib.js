@@ -12,10 +12,10 @@ ist.size(350);
 button1 = createButton("Click on me");
 button1.position(50,100);
 button1.size(100,50);
-button1.mousePressed(updateStory);
+button1.mousePressed(updatestory);
 
 }
-function draw() {
+function updatestory() {
 
 
 
