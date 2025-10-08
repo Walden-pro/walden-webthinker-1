@@ -44,10 +44,10 @@ function updatestory() {
 // console.log(inputadverb.value())
 // console.log(inputplace.value())
 
-text(inputnoun.value(),inputverb.value())
-console.log(inputadjective.value())
+text(inputnoun.value(),inputverb.value(),inputadjective.value())
 console.log(inputadverb.value())
 console.log(inputplace.value())
+
 //      background(220);
 // story = ist.value();
 // textAlign(CENTER,CENTER);
