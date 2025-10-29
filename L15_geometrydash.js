@@ -6,7 +6,7 @@ function setup() {
 }
 function draw() {
     fill("white")
-    rect(100,100,100,56)
+    rect(0,100,100,56)
 
     
 
