@@ -14,7 +14,12 @@ function draw() {
     rect(100,ypos,50,50)
 
 
-    
+}
+function drawSpike() {
+
+
+
+
 
 
 }
