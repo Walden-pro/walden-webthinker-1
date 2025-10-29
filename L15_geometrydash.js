@@ -6,7 +6,7 @@ function setup() {
 }
 function draw() {
     fill("purple")
-    rect(702,1535,)
+    rect(702,1535,width/2,)
 
     
 
