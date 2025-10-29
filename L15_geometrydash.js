@@ -9,7 +9,7 @@ function setup() {
 function draw() {
     background("black");
     fill("darkblue");
-    rect(0,675,1540,60);
+    rect(0,675,1000,60);
     fill("limegreen")
     rect(100,ypos,50,50)
 
