@@ -5,8 +5,9 @@ function setup() {
     
 }
 function draw() {
-    fill("purple")
-    rect(0,675,1540,56)
+    fill("darkblue")
+    rect(0,675,1540,56);
+    
 
     
 
