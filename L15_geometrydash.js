@@ -19,6 +19,6 @@ function draw() {
 function drawSpike(x1,x2,y1,y2) {
 // fill("red")
 // triangle(100,100,100,100,100,100)
-triangle(830,600,890,675,850,675)
+triangle(830,600,890,675,830,675)
 
 }
