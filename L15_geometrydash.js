@@ -5,7 +5,7 @@ function setup() {
     
 }
 function draw() {
-    fill("purple")
+    fill("white")
     rect(100,100,100,56)
 
     
