@@ -13,7 +13,7 @@ function draw() {
     fill("limegreen")
     rect(100,ypos,50,50)
     fill("red")
-    triangle(600,850,600,600,600,600)
+    triangle(600,850,600,600,800,600)
     drawSpike(880,850,650,675)
 }
 function drawSpike(x1,x2,y1,y2) {
