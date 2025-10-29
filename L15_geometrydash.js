@@ -1,4 +1,4 @@
-// let ypos = height/2;
+let ypos = height/2;
 function setup() {
     createCanvas(1535, 727);
     
@@ -11,7 +11,7 @@ function draw() {
     fill("darkblue");
     rect(0,675,1540,56);
     fill("limegreen")
-    rect(100,height/2,50,50)
+    rect(100,ypos,50,50)
 
 
     
