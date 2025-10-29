@@ -15,7 +15,7 @@ function draw() {
 
 
 }
-function drawSpike() {
+function drawSpike(x1,x2,y1,y2) {
 
 
 
