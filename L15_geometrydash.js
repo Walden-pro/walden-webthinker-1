@@ -5,7 +5,7 @@ function setup() {
     
 }
 function draw() {
-    fill(pur)
+    fill("purple")
     rect(702,1535)
 
     
