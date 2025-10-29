@@ -8,7 +8,7 @@ function draw() {
     fill("darkblue");
     rect(0,675,1540,56);
     fill("limegreen")
-    rect(ypos,675,50,50)
+    rect(width/2,ypos,50,50)
 
 
     
