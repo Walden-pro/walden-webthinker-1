@@ -2,6 +2,7 @@
 function setup() {
     createCanvas(1535, 727);
     let ypos = height/2;
+    background("black");
     
     
 }
