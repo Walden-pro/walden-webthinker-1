@@ -1,4 +1,4 @@
-ypos
+let ypos = 100;
 function setup() {
     createCanvas(1535, 727);
     background("black");
