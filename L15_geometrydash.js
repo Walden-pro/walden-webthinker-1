@@ -11,7 +11,7 @@ function draw() {
     fill("darkblue");
     rect(0,675,1540,56);
     fill("limegreen")
-    rect(width/2,width/2,50,50)
+    rect(width/2,height/2,50,50)
 
 
     
