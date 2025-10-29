@@ -14,7 +14,7 @@ function draw() {
     rect(100,ypos,50,50)
     fill("red")
     
-    // drawSpike()
+    drawSpike()
 }
 function drawSpike(x1,x2,x3,y1,y2,y3) {
 // fill("red")
