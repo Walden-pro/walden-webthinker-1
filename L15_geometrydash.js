@@ -1,4 +1,4 @@
-
+ypos
 function setup() {
     createCanvas(1535, 727);
     background("black");
