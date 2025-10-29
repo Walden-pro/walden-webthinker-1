@@ -1,6 +1,6 @@
 let ypos = 625;
 function setup() {
-    createCanvas(1535, 727);
+    createCanvas(1000, 700);
     
     background("black");
     
