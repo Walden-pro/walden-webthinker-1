@@ -13,7 +13,7 @@ function draw() {
     fill("limegreen")
     rect(100,ypos,50,50)
 
-    drawSpike(880,850)
+    drawSpike(880,850,650,675)
 }
 function drawSpike(x1,x2,y1,y2) {
 
