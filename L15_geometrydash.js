@@ -1,4 +1,4 @@
-let ypos = 630;
+let ypos = 640;
 function setup() {
     createCanvas(1535, 727);
     
@@ -9,7 +9,7 @@ function setup() {
 function draw() {
     background("black");
     fill("darkblue");
-    rect(0,675,1540,56);
+    rect(0,675,1540,60);
     fill("limegreen")
     rect(100,ypos,50,50)
 
