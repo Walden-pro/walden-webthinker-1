@@ -5,9 +5,10 @@ function setup() {
     
 }
 function draw() {
-    fill("darkblue")
+    fill("darkblue");
     rect(0,675,1540,56);
     
+
 
     
 
