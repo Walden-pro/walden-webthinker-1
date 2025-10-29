@@ -14,13 +14,11 @@ function draw() {
     rect(100,ypos,50,50)
     fill("red")
     
-    drawSpike(880,850,650,675)
+    drawSpike()
 }
 function drawSpike(x1,x2,y1,y2) {
-
 // fill("red")
 // triangle(100,100,100,100,100,100)
-
 triangle(660,600,630,675,690,675)
 
 }
