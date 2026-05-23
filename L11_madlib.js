@@ -73,15 +73,15 @@ templates = [
 "We did not know this {adj} {noun} was {verb}ing {adverb}."
 
 ];
-// let selection = random(templates);
-// console.log("selection: "+ selection)
-// story = selection.replace("{adj}","tall")
-// story = story.replace("{noun}",inputnoun.value())
-// story = story.replace("{verb}","get out")
-// story = story.replace("{adverb}","skibidily")
-// story = story.replace("{place}","principle's office")
+let selection = random(templates);
+console.log("selection: "+ selection)
+story = selection.replace("{adj}","tall")
+story = story.replace("{noun}",inputnoun.value())
+story = story.replace("{verb}","get out")
+story = story.replace("{adverb}","skibidily")
+story = story.replace("{place}","principle's office")
 
-// console.log("story is : "+ story)
+console.log("story is : "+ story)
 
 
 
